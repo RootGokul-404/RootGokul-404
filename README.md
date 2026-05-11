@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/RootGokul-404.png" width="180"/>
+<img src="https://github.com/RootGokul-404.png" width="190"/>
 
 <br><br>
 
@@ -33,6 +33,46 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 </div>
+
+---
+
+## ⚡ Developer Dashboard
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
+### 💻 Building
+
+Creating modern full stack applications with scalable backend systems.
+
+</td>
+
+<td width="33%" align="center">
+
+<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+
+### 🚀 Learning
+
+Exploring AI integrated development and improving engineering workflows.
+
+</td>
+
+<td width="33%" align="center">
+
+<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+
+### ⚡ Growing
+
+Focused on consistency, scalability, and problem solving.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -74,24 +114,46 @@
 
 ---
 
-## 🌌 Engineering Philosophy
-
-> Engineering is not limited to one domain.  
-> Technology evolves continuously, and engineers grow by adapting, learning, and building impactful solutions.
-
 <div align="center">
 
-### 🔌 Logic • Analysis • Systems  
-### 💻 Development • Innovation • Design  
-### 🚀 Learn • Build • Evolve  
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
 </div>
 
 ---
 
+## 🌌 Engineering Philosophy
+
+<table>
+<tr>
+
+<td width="50%" valign="center">
+
+> Engineering is not limited to one domain.  
+> Technology evolves continuously, and engineers grow by adapting, learning, and building impactful solutions.
+
+<br>
+
+### 🔌 Logic • Analysis • Systems  
+### 💻 Development • Innovation • Design  
+### 🚀 Learn • Build • Evolve  
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 </div>
 
@@ -107,11 +169,23 @@
 
 <br>
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
+<td width="50%" align="center">
 
-</div>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RootGokul-404&theme=github_dark"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -134,6 +208,10 @@ Modern responsive portfolio with:
 #### Stack
 HTML • CSS • Bootstrap • JavaScript
 
+<br>
+
+<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
+
 </td>
 
 <td width="50%" valign="top">
@@ -149,6 +227,10 @@ Backend API architecture featuring:
 
 #### Stack
 Spring Boot • Java • MySQL
+
+<br>
+
+<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 </td>
 
@@ -166,6 +248,10 @@ Secure login and registration system with:
 - Backend Security
 - Database Connectivity
 
+<br>
+
+<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+
 </td>
 
 <td width="50%" valign="top">
@@ -180,51 +266,9 @@ Problem solving repository focused on:
 - Sorting Algorithms
 - Logical Thinking
 
-</td>
+<br>
 
-</tr>
-</table>
-
----
-
-## ⚡ Developer Environment
-
-<div align="center">
-
-<img width="48%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
-
-<img width="48%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-</div>
-
----
-
-## 🚀 Current Mission
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 💻 Development
-
-Building modern full stack applications with scalable backend architecture.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 Learning
-
-Exploring AI integrated workflows and improving engineering skills continuously.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚡ Growth
-
-Focused on problem solving, consistency, and real world development practices.
+<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 </td>
 
@@ -243,23 +287,63 @@ Focused on problem solving, consistency, and real world development practices.
 
 ---
 
-## 🔥 Contribution Snake
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔥 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://github.com/RootGokul-404" target="_blank">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
+
+</a>
 
 </div>
 
 ---
 
-## 📈 Development Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RootGokul-404&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RootGokul-404&theme=github_dark"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -274,6 +358,8 @@ Focused on problem solving, consistency, and real world development practices.
 
 ### 📌 Plan
 
+<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
 Understanding requirements and designing architecture.
 
 </td>
@@ -281,6 +367,8 @@ Understanding requirements and designing architecture.
 <td width="25%" align="center">
 
 ### 💻 Build
+
+<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
 
 Developing scalable frontend and backend systems.
 
@@ -290,6 +378,8 @@ Developing scalable frontend and backend systems.
 
 ### 🧪 Test
 
+<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+
 Improving quality, debugging, and optimization.
 
 </td>
@@ -298,7 +388,9 @@ Improving quality, debugging, and optimization.
 
 ### 🚀 Deploy
 
-Deploying modern applications and improving workflows.
+<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
+
+Deploying applications and improving workflows.
 
 </td>
 
@@ -316,54 +408,6 @@ Deploying modern applications and improving workflows.
 | Spring Boot | Cloud Learning | Scalable Systems |
 | Full Stack Development | DevOps Basics | System Design |
 | DSA & Logic | AI Integration | Advanced Engineering |
-
-</div>
-
----
-
-## 🌐 Digital Workspace
-
-<div align="center">
-
-<img width="32%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
-
-<img width="32%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
-
-<img width="32%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
-
-</a>
 
 </div>
 
