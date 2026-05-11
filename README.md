@@ -69,11 +69,11 @@ The journey from EEE to IT strengthened adaptability, continuous learning, and t
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=RootGokul-404&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -81,8 +81,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=RootGokul-404&theme=
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -93,7 +93,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-40
 <div align="center">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
