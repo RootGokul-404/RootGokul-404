@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:000428,55:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:000000,20:000428,50:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=36&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=1200&lines=SOFTWARE+DEVELOPER;FULL+STACK+ENGINEER;SPRING+BOOT+DEVELOPER;AI+DRIVEN+LEARNER;BUILDING+THE+FUTURE+WITH+CODE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=1400&lines=SOFTWARE+DEVELOPER;FULL+STACK+ENGINEER;SPRING+BOOT+ARCHITECT;AI+DRIVEN+LEARNER;DESIGNING+THE+FUTURE+THROUGH+CODE" />
 
 <br><br>
 
@@ -12,11 +12,7 @@
 <img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=00F7FF&labelColor=000000"/>
 </a>
 
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/github/stars/RootGokul-404?style=for-the-badge&color=00F7FF&labelColor=000000"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=VISITORS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
@@ -24,9 +20,31 @@
 
 <div align="center">
 
-# ⚡ DIGITAL ENGINEER • FUTURE BUILDER • AI DRIVEN LEARNER ⚡
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-f8cfd1c1-7f9d-4f15-b6c2-ff8a6e1b4d8c.gif"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4506-b84d-8f1c1e7c4e5a.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ SYSTEM BOOT ⚡
+
+</div>
+
+<div align="center">
+
+```bash
+> initializing RootGokul-404 ...
+
+✔ Software Developer
+✔ Full Stack Engineer
+✔ AI Driven Learner
+✔ Problem Solver
+✔ Engineering Mindset Activated
+
+STATUS : ONLINE
+```
 
 </div>
 
@@ -35,41 +53,38 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-# 🧠 SYSTEM PROFILE
+# 🧠 DEVELOPER DNA
 
 ```yaml
 name: Gokulakannan
 
-alias: RootGokul-404
-
 role:
-  - Software Developer
-  - Java Full Stack Engineer
-  - AI Driven Learner
+  - Full Stack Engineer
+  - Backend Developer
+  - AI Technology Learner
 
-current_focus:
+specialization:
+  - Java
   - Spring Boot
-  - Backend Systems
-  - Full Stack Development
-  - Advanced DSA
-
-mindset:
-  - Build Smart
-  - Learn Fast
-  - Adapt Continuously
-  - Stay Future Ready
+  - DSA
+  - Modern Web Development
 
 mission:
-  Creating impactful digital experiences
-  through code, innovation, and
-  continuous learning.
+  Building scalable systems and
+  impactful digital experiences
+  through continuous learning.
+
+mindset:
+  Learn Fast
+  Build Smart
+  Adapt Continuously
 ```
 
 </td>
 
-<td width="42%">
+<td width="45%">
 
 <div align="center">
 
@@ -86,17 +101,7 @@ mission:
 
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-7a7f9a7e-7f0f-4d44-94b2-3d3f5b2ef79b.gif">
-
-</div>
-
----
-
-# 🚀 ENGINEERING WITHOUT LIMITS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2300&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=Engineering+Is+About+Problem+Solving;Technology+Has+No+Boundaries;Adaptive+Engineers+Shape+The+Future;Learning+Is+The+Ultimate+Superpower" />
+# 🌌 ENGINEERING WITHOUT LIMITS
 
 </div>
 
@@ -105,6 +110,7 @@ mission:
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="33%">
@@ -113,19 +119,17 @@ mission:
 
 Logic  
 Systems  
-Analysis  
 Technical Thinking  
 
 </td>
 
 <td align="center" width="33%">
 
-# 💻 IT
+# 💻 SOFTWARE
 
 Development  
 Innovation  
-Technology  
-Modern Solutions  
+Architecture  
 
 </td>
 
@@ -135,54 +139,21 @@ Modern Solutions
 
 Problem Solver  
 Adaptive Thinker  
-Fast Learner  
 Future Ready  
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🌌 DEVELOPER PHILOSOPHY
-
 <div align="center">
 
-### ⚡ Engineering taught me logic  
-### 🚀 Software development taught me innovation  
-### 🤖 AI taught me adaptation  
-### 💻 Building projects taught me growth  
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-7a7f9a7e-7f0f-4d44-94b2-3d3f5b2ef79b.gif">
-
-</div>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://instagram.com/ivan_gokula_kannan" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-7a7f9a7e-7f0f-4d44-94b2-3d3f5b2ef79b.gif"/>
 
 </div>
 
@@ -198,35 +169,7 @@ Future Ready
 
 ---
 
-# 🧠 CORE EXPERTISE
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FULL_STACK-00b4d8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DSA-7209B7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PROBLEM_SOLVING-f72585?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI_LEARNING-06d6a0?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-f8cfd1c1-7f9d-4f15-b6c2-ff8a6e1b4d8c.gif">
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
+# 🚀 ACTIVE MISSIONS
 
 <div align="center">
 
@@ -236,37 +179,33 @@ Future Ready
 
 <td width="50%" valign="top">
 
-# 🌐 PORTFOLIO WEBSITE
+# 🌐 PORTFOLIO SYSTEM
 
-Modern responsive developer portfolio
-with cinematic UI and animations.
+```txt
+STATUS : ACTIVE
 
-### ⚡ FEATURES
-- Neon UI
-- Smooth Animations
-- Responsive Design
-- Interactive Components
-
-### 🛠 STACK
-HTML • CSS • Bootstrap • JavaScript
+✔ Responsive UI
+✔ Smooth Animations
+✔ Neon Theme
+✔ Modern Design
+✔ Developer Branding
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-# 🚀 SPRING BOOT REST API
+# 🚀 BACKEND API SYSTEM
 
-Scalable backend API architecture
-built using Spring Boot.
+```txt
+STATUS : BUILDING
 
-### ⚡ FEATURES
-- CRUD APIs
-- REST Architecture
-- Secure Endpoints
-- Database Integration
-
-### 🛠 STACK
-Spring Boot • Java • MySQL
+✔ REST Architecture
+✔ CRUD Operations
+✔ Authentication
+✔ Database Integration
+✔ Scalable Structure
+```
 
 </td>
 
@@ -276,26 +215,32 @@ Spring Boot • Java • MySQL
 
 <td width="50%" valign="top">
 
-# 🔐 AUTHENTICATION SYSTEM
+# 🔐 AUTHENTICATION CORE
 
-Secure login/register authentication
-system with backend integration.
+```txt
+STATUS : SECURED
 
-### 🛠 STACK
-Spring Boot • Java • MySQL
+✔ Login/Register
+✔ Session Handling
+✔ Validation Logic
+✔ Backend Security
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-# 📚 DSA REPOSITORY
+# 📚 DSA ARCHIVE
 
-Problem solving repository focused on:
-- Arrays
-- Linked Lists
-- Stack & Queue
-- Recursion
-- Sorting Algorithms
+```txt
+STATUS : TRAINING
+
+✔ Arrays
+✔ Linked Lists
+✔ Recursion
+✔ Sorting Algorithms
+✔ Problem Solving
+```
 
 </td>
 
@@ -307,7 +252,11 @@ Problem solving repository focused on:
 
 ---
 
-# 📊 GITHUB ANALYTICS
+<div align="center">
+
+# 📊 PERFORMANCE ANALYTICS
+
+</div>
 
 <div align="center">
 
@@ -327,9 +276,29 @@ Problem solving repository focused on:
 
 ---
 
-# 🏆 ACHIEVEMENTS
+<div align="center">
+
+# 🌐 DIGITAL FOOTPRINT
+
+<a href="https://instagram.com/ivan_gokula_kannan" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RootGokul-404" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <div align="center">
+
+# 🏆 ACHIEVEMENTS
 
 <img src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
 
@@ -337,9 +306,9 @@ Problem solving repository focused on:
 
 ---
 
-# 🔥 CONTRIBUTION GRAPH
-
 <div align="center">
+
+# 🔥 ACTIVITY MATRIX
 
 <a href="https://github.com/RootGokul-404" target="_blank">
 
@@ -351,17 +320,17 @@ Problem solving repository focused on:
 
 ---
 
-# 💭 FINAL TRANSMISSION
-
 <div align="center">
 
-# ⚡ TECHNOLOGY NEVER STOPS EVOLVING
+# 💭 FINAL TRANSMISSION
 
-# 🚀 NEITHER DO I
+### ⚡ TECHNOLOGY NEVER STOPS EVOLVING
+
+### 🚀 NEITHER DO I
 
 <br>
 
-### 💻 CODE • LEARN • BUILD • EVOLVE
+# 💻 CODE • LEARN • BUILD • EVOLVE
 
 </div>
 
@@ -369,6 +338,6 @@ Problem solving repository focused on:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:000428,55:004e92,100:00F7FF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:000428,50:004e92,100:00F7FF&section=footer"/>
 
 </div>
