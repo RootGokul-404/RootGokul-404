@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:000000,20:000428,50:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&text=ROOTGOKUL-404&fontSize=72&fontAlignY=35&animation=fadeIn&fontColor=00F7FF&color=0:000000,25:020024,50:090979,75:004e92,100:00F7FF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=1400&lines=SOFTWARE+DEVELOPER;FULL+STACK+ENGINEER;SPRING+BOOT+ARCHITECT;AI+DRIVEN+LEARNER;DESIGNING+THE+FUTURE+THROUGH+CODE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&pause=700&duration=2300&color=00F7FF&center=true&vCenter=true&width=1400&lines=SOFTWARE+DEVELOPER;FULL+STACK+ENGINEER;SPRING+BOOT+DEVELOPER;AI+DRIVEN+LEARNER;DESIGNING+DIGITAL+SYSTEMS;ENGINEERING+WITHOUT+LIMITS" />
 
 <br><br>
 
@@ -12,7 +12,11 @@
 <img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=00F7FF&labelColor=000000"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=VISITORS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RootGokul-404&style=for-the-badge&color=00F7FF&label=VISITORS"/>
+
+<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
 
 </div>
 
@@ -28,22 +32,23 @@
 
 <div align="center">
 
-# ⚡ SYSTEM BOOT ⚡
+# ⚡ INITIALIZING ROOTGOKUL-404 ⚡
 
 </div>
 
 <div align="center">
 
 ```bash
-> initializing RootGokul-404 ...
+> boot sequence initialized...
 
-✔ Software Developer
-✔ Full Stack Engineer
-✔ AI Driven Learner
-✔ Problem Solver
-✔ Engineering Mindset Activated
+[██████████████████████████] 100%
 
-STATUS : ONLINE
+SYSTEM STATUS       : ONLINE
+AI MODULE           : ACTIVE
+DEVELOPER CORE      : LOADED
+CURRENT MISSION     : BUILDING FUTURE SYSTEMS
+
+ROOTGOKUL-404 READY.
 ```
 
 </div>
@@ -55,36 +60,40 @@ STATUS : ONLINE
 
 <td width="55%" valign="top">
 
-# 🧠 DEVELOPER DNA
+# 🧠 DEVELOPER CORE
 
 ```yaml
 name: Gokulakannan
 
+alias: RootGokul-404
+
 role:
+  - Software Developer
   - Full Stack Engineer
-  - Backend Developer
-  - AI Technology Learner
+  - AI Driven Learner
 
 specialization:
   - Java
   - Spring Boot
-  - DSA
-  - Modern Web Development
+  - Backend Development
+  - Modern UI Systems
 
-mission:
-  Building scalable systems and
-  impactful digital experiences
-  through continuous learning.
+engineering_mode:
+  - Problem Solving
+  - Scalable Thinking
+  - Continuous Learning
+  - Adaptive Engineering
 
-mindset:
-  Learn Fast
-  Build Smart
-  Adapt Continuously
+current_focus:
+  - AI Integrated Development
+  - Full Stack Architecture
+  - Advanced DSA
+  - Real World Systems
 ```
 
 </td>
 
-<td width="45%">
+<td width="45%" valign="top">
 
 <div align="center">
 
@@ -101,6 +110,14 @@ mindset:
 
 <div align="center">
 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-7a7f9a7e-7f0f-4d44-94b2-3d3f5b2ef79b.gif"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # 🌌 ENGINEERING WITHOUT LIMITS
 
 </div>
@@ -109,59 +126,27 @@ mindset:
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-# 🔌 EEE
-
-Logic  
-Systems  
-Technical Thinking  
-
-</td>
-
-<td align="center" width="33%">
-
-# 💻 SOFTWARE
-
-Development  
-Innovation  
-Architecture  
-
-</td>
-
-<td align="center" width="33%">
-
-# 🚀 ENGINEER
-
-Problem Solver  
-Adaptive Thinker  
-Future Ready  
-
-</td>
-
-</tr>
-
-</table>
+```text
+┌─────────────────────────────────────────────┐
+│  ENGINEERING IS ABOUT PROBLEM SOLVING      │
+├─────────────────────────────────────────────┤
+│  EEE → LOGIC • ANALYSIS • SYSTEMS          │
+│  IT  → DEVELOPMENT • INNOVATION • DESIGN   │
+│                                             │
+│  AN ENGINEER ADAPTS TO TECHNOLOGY          │
+│  AND BUILDS THE FUTURE THROUGH LEARNING.   │
+└─────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
 <div align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-7a7f9a7e-7f0f-4d44-94b2-3d3f5b2ef79b.gif"/>
-
-</div>
-
----
 
 # ⚔️ TECH ARSENAL
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,git,github,linux,vscode"/>
 
@@ -169,26 +154,35 @@ Future Ready
 
 ---
 
-# 🚀 ACTIVE MISSIONS
-
 <div align="center">
 
-<table>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4506-b84d-8f1c1e7c4e5a.gif"/>
 
+</div>
+
+---
+
+# 🚀 DEPLOYED SYSTEMS
+
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
 # 🌐 PORTFOLIO SYSTEM
 
-```txt
-STATUS : ACTIVE
+```bash
+STATUS        : DEPLOYED
 
-✔ Responsive UI
+FEATURES:
+✔ Cinematic UI
+✔ Neon Design
+✔ Responsive Layout
 ✔ Smooth Animations
-✔ Neon Theme
-✔ Modern Design
-✔ Developer Branding
+✔ Interactive Components
+
+STACK:
+HTML • CSS • Bootstrap • JavaScript
 ```
 
 </td>
@@ -197,14 +191,18 @@ STATUS : ACTIVE
 
 # 🚀 BACKEND API SYSTEM
 
-```txt
-STATUS : BUILDING
+```bash
+STATUS        : ACTIVE DEVELOPMENT
 
+FEATURES:
 ✔ REST Architecture
 ✔ CRUD Operations
 ✔ Authentication
 ✔ Database Integration
-✔ Scalable Structure
+✔ Backend Security
+
+STACK:
+Spring Boot • Java • MySQL
 ```
 
 </td>
@@ -217,13 +215,15 @@ STATUS : BUILDING
 
 # 🔐 AUTHENTICATION CORE
 
-```txt
-STATUS : SECURED
+```bash
+STATUS        : SECURED
 
+FEATURES:
 ✔ Login/Register
-✔ Session Handling
 ✔ Validation Logic
-✔ Backend Security
+✔ Session Handling
+✔ Secure Access
+✔ Backend Integration
 ```
 
 </td>
@@ -232,21 +232,27 @@ STATUS : SECURED
 
 # 📚 DSA ARCHIVE
 
-```txt
-STATUS : TRAINING
+```bash
+STATUS        : TRAINING MODE
 
+TOPICS:
 ✔ Arrays
 ✔ Linked Lists
 ✔ Recursion
+✔ Stack & Queue
 ✔ Sorting Algorithms
-✔ Problem Solving
 ```
 
 </td>
 
 </tr>
-
 </table>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-f8cfd1c1-7f9d-4f15-b6c2-ff8a6e1b4d8c.gif"/>
 
 </div>
 
@@ -254,15 +260,7 @@ STATUS : TRAINING
 
 <div align="center">
 
-# 📊 PERFORMANCE ANALYTICS
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
+# 📊 LIVE SYSTEM ANALYTICS
 
 </div>
 
@@ -270,37 +268,17 @@ STATUS : TRAINING
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-# 🌐 DIGITAL FOOTPRINT
-
-<a href="https://instagram.com/ivan_gokula_kannan" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -322,15 +300,21 @@ STATUS : TRAINING
 
 <div align="center">
 
-# 💭 FINAL TRANSMISSION
-
-### ⚡ TECHNOLOGY NEVER STOPS EVOLVING
-
-### 🚀 NEITHER DO I
+# 🌐 DIGITAL FOOTPRINT
 
 <br>
 
-# 💻 CODE • LEARN • BUILD • EVOLVE
+<a href="https://instagram.com/ivan_gokula_kannan" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
+<a href="https://github.com/RootGokul-404" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
 
 </div>
 
@@ -338,6 +322,22 @@ STATUS : TRAINING
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:000428,50:004e92,100:00F7FF&section=footer"/>
+# 💭 FINAL TRANSMISSION
+
+```text
+TECHNOLOGY NEVER STOPS EVOLVING
+
+SO NEITHER DO I.
+
+CODE • LEARN • BUILD • EVOLVE
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=footer&color=0:000000,25:020024,50:090979,75:004e92,100:00F7FF"/>
 
 </div>
