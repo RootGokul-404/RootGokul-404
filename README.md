@@ -1,71 +1,96 @@
 <div align="center">
 
-<img src="https://github.com/RootGokul-404.png" width="180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=SOFTWARE+DEVELOPER;JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+DEVELOPER;PROBLEM+SOLVER;AI+DRIVEN+LEARNER;BUILDING+THE+FUTURE+WITH+CODE" />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:0B0F19,35:111827,70:1F2937,100:334155&text=ROOTGOKUL-404&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-<br>
+<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=00F7FF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner;Building+Modern+Digital+Experiences" />
-
-<br><br>
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=0F172A&labelColor=1E293B"/>
-</a>
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS"/>
-</a>
-
-<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/github/stars/RootGokul-404?style=for-the-badge&color=00F7FF"/>
 
 </div>
 
 ---
+
+# ⚡ ROOTGOKUL-404
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+```yaml
+name: Gokulakannan
+
+role:
+  - Software Developer
+  - Java Full Stack Developer
+  - AI Driven Learner
+
+currently_learning:
+  - Spring Boot
+  - Backend Development
+  - DSA
+  - AI Integrated Development
+
+mindset:
+  - Learn Fast
+  - Build Smart
+  - Adapt Continuously
+  - Stay Future Ready
+
+focus:
+  - Scalable Applications
+  - Modern Technologies
+  - Problem Solving
+```
+
+---
+
+# 🚀 ENGINEERING WITHOUT LIMITS
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Engineering+Is+About+Problem+Solving;Technology+Has+No+Boundaries;The+Future+Belongs+To+Adaptive+Engineers;Learning+Is+The+Real+Superpower" />
 
 </div>
 
----
+<br>
 
-## ⚡ Developer Profile
-
-<table>
+<table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🧠 Current Focus
+# 🔌 EEE
 
-- Full Stack Development  
-- Backend Architecture  
-- Spring Boot APIs  
-- DSA & Problem Solving  
-- AI Integrated Development  
-- AI Assisted Development  
-- Modern UI Systems  
+Logic  
+Analysis  
+Systems  
+Technical Thinking  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🚀 Engineering Mindset
+# 💻 IT
 
-- Continuous Learning  
-- Scalable Thinking  
-- Modern Development  
-- Adaptability  
-- Real World Problem Solving  
-- Clean Architecture  
-- Innovation Driven Development  
+Development  
+Innovation  
+Technology  
+Modern Solutions  
+
+</td>
+
+<td width="33%" align="center">
+
+# 🚀 ENGINEER
+
+Problem Solver  
+Fast Learner  
+Adaptive Mindset  
+Future Ready  
 
 </td>
 
@@ -74,30 +99,27 @@
 
 ---
 
-## 🌌 Engineering Philosophy
-
-> Engineering is not limited to one domain.  
-> Technology evolves continuously, and engineers grow by adapting, learning, and building impactful solutions.
+# 🌐 CONNECT
 
 <div align="center">
 
-### 🔌 Logic • Analysis • Systems  
-### 💻 Development • Innovation • Design  
-### 🚀 Learn • Build • Evolve  
+<a href="https://instagram.com/ivan_gokula_kannan">
+<img src="https://img.shields.io/badge/INSTAGRAM-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:gokulakannan7972@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RootGokul-404">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-
-</div>
-
----
-
-## ⚔️ Tech Stack
+# ⚔️ TECH STACK
 
 <div align="center">
 
@@ -105,267 +127,103 @@
 
 </div>
 
-<br>
+---
+
+# 🧠 SKILLS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FULL_STACK-00b4d8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-7209B7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PROBLEM_SOLVING-f72585?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_LEARNER-06d6a0?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-
-Modern responsive portfolio with:
-- Smooth UI
-- Responsive Design
-- Developer Branding
-- Interactive Components
-- Dark Premium Theme
-
-#### Stack
-HTML • CSS • Bootstrap • JavaScript
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Spring Boot REST API
-
-Backend API architecture featuring:
-- CRUD Operations
-- REST APIs
-- Authentication
-- Database Integration
-- Validation & Security
-
-#### Stack
-Spring Boot • Java • MySQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 Authentication System
-
-Secure login and registration system with:
-- Validation
-- Session Handling
-- Backend Security
-- Database Connectivity
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 DSA Repository
-
-Problem solving repository focused on:
-- Arrays
-- Linked Lists
-- Stack & Queue
-- Recursion
-- Sorting Algorithms
-- Logical Thinking
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ⚡ Developer Environment
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-<table>
-<tr>
+| Project | Description |
+|---|---|
+| 🌐 Portfolio Website | Responsive modern portfolio with animations |
+| ☕ Student Management System | Java + MySQL CRUD application |
+| 🚀 Spring Boot REST API | Backend REST APIs using Spring Boot |
+| 🔐 Authentication System | Secure login & registration system |
+| 🛒 E-Commerce Frontend | Responsive shopping UI |
+| 📚 DSA Repository | Problem solving and interview preparation |
 
-<td width="33%" align="center" valign="top">
+</div>
 
-### 🖥 Workspace Setup
+---
 
-- VS Code Development Environment  
-- Linux Based Workflow  
-- Git & GitHub Version Control  
-- REST API Development  
-- Backend Architecture Design  
-- Responsive UI Development  
-- Modular Code Structure  
-- Scalable Project Architecture  
-- API Testing & Debugging  
-- Database Connectivity  
-- Spring Boot Workflow  
-- Frontend Optimization  
-- Systematic Project Structure  
-- Code Refactoring Practices  
-- Production Ready Development  
-- Cross Platform Development  
-- Java Development Workflow  
-- Clean Engineering Practices  
-- Multi Project Management  
-- Scalable Backend Systems  
+# 📊 GITHUB ANALYTICS
 
-</td>
+<div align="center">
 
-<td width="33%" align="center" valign="top">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### ⚙️ Daily Workflow
+<img height="180em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
 
-- Planning Application Structure  
-- Designing System Architecture  
-- Building Full Stack Projects  
-- Writing Clean Maintainable Code  
-- Learning New Technologies  
-- Practicing DSA Problems  
-- Improving Problem Solving Skills  
-- Developing REST APIs  
-- Backend Testing & Validation  
-- UI Enhancement & Optimization  
-- Managing Database Systems  
-- Fixing Bugs Efficiently  
-- Improving Application Performance  
-- Exploring AI Integration  
-- Maintaining Git Repositories  
-- Improving Engineering Logic  
-- Testing Real World Scenarios  
-- Refactoring Existing Systems  
-- Improving Code Readability  
-- Developing Scalable Solutions  
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🚀 Development Goals
-
-- Master Spring Boot Development  
-- Build Enterprise Applications  
-- Improve Backend Security  
-- Learn Advanced System Design  
-- Explore AI Driven Development  
-- Improve Full Stack Skills  
-- Learn DevOps Workflow  
-- Build Scalable APIs  
-- Improve Deployment Workflow  
-- Contribute to Open Source  
-- Master Software Engineering  
-- Build Production Ready Systems  
-- Improve Engineering Discipline  
-- Strengthen Problem Solving  
-- Learn Cloud Technologies  
-- Improve Development Speed  
-- Build Modern UI Systems  
-- Improve Architecture Design  
-- Learn Distributed Systems  
-- Become a Scalable Engineer  
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
-```java
-class DeveloperEnvironment
-{
-    public static void main(String args[])
-    {
-        initialize();
+<div align="center">
 
-        while(true)
-        {
-            learn();
-            research();
-            analyze();
-            plan();
-            design();
-            code();
-            build();
-            test();
-            debug();
-            optimize();
-            deploy();
-            improve();
-        }
-    }
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
 
-    static void initialize()
-    {
-        System.out.println("Developer Environment Active");
-    }
+</div>
 
-    static void learn()
-    {
-        System.out.println("Learning Modern Technologies");
-    }
+---
 
-    static void research()
-    {
-        System.out.println("Researching Engineering Concepts");
-    }
+# 🏆 ACHIEVEMENTS
 
-    static void analyze()
-    {
-        System.out.println("Analyzing System Requirements");
-    }
+<div align="center">
 
-    static void plan()
-    {
-        System.out.println("Planning Application Architecture");
-    }
+<img src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
-    static void design()
-    {
-        System.out.println("Designing Scalable Systems");
-    }
+</div>
 
-    static void code()
-    {
-        System.out.println("Developing Modern Applications");
-    }
+---
 
-    static void build()
-    {
-        System.out.println("Building Full Stack Projects");
-    }
+# 🔥 CONTRIBUTION GRAPH
 
-    static void test()
-    {
-        System.out.println("Testing Application Features");
-    }
+<div align="center">
 
-    static void debug()
-    {
-        System.out.println("Fixing Bugs & Optimizing Code");
-    }
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night)](https://github.com/RootGokul-404)
 
-    static void optimize()
-    {
-        System.out.println("Improving Performance & Scalability");
-    }
+</div>
 
-    static void deploy()
-    {
-        System.out.println("Deploying Production Systems");
-    }
+---
 
-    static void improve()
-    {
-        System.out.println("Improving Engineering Skills");
-    }
-}
+# 💭 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+## ⚡ "Technology Never Stops Evolving — Neither Do I."
+
+## 🚀 "Consistency Creates Growth."
+
+## 🤖 "AI Will Empower Engineers Who Keep Learning."
+
+## 💻 "Code • Learn • Build • Evolve"
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000428,50:004e92,100:00F7FF&section=footer"/>
+
+</div>
