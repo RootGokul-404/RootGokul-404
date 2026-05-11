@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/RootGokul-404.png" width="180"/>
+<img src="https://github.com/RootGokul-404.png" width="200"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B0F19,50:111827,100:1F2937&text=ROOTGOKUL-404&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0B0F19,50:111827,100:1F2937&text=ROOTGOKUL-404&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner;Building+Modern+Applications" />
 
 <br><br>
 
@@ -28,7 +28,103 @@
 
 ---
 
-# ⚡ About Me
+# ⚡ Development Process
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bcf2e4f-84d2-4c3f-8f52-fd3b0c1b8b5a.gif"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 📌 Plan
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png"/>
+
+Requirement analysis and architecture planning.
+
+</td>
+
+<td width="25%" align="center">
+
+## 💻 Develop
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>
+
+Building scalable frontend and backend systems.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🧪 Test
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png"/>
+
+Debugging and improving application quality.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🚀 Deploy
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
+
+Deployment and workflow optimization.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Developer Dashboard
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 💻 Building
+
+Creating scalable applications and backend systems.
+
+</td>
+
+<td width="33%" align="center">
+
+<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
+
+### 🚀 Learning
+
+Exploring AI workflows and modern technologies.
+
+</td>
+
+<td width="33%" align="center">
+
+<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
+
+### ⚡ Growing
+
+Focused on real world development and consistency.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 About Me
 
 <table>
 <tr>
@@ -50,15 +146,43 @@
 
 <td width="50%" valign="top">
 
-### 🧠 Engineering Mindset
+### ⚡ Engineering Mindset
 
 - Continuous Learning  
-- Adaptability  
 - Scalable Thinking  
+- Adaptability  
 - Problem Solving  
 - Clean Architecture  
-- Modern Development Practices  
 - Innovation Driven Development  
+- Modern Engineering Practices  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌌 Engineering Philosophy
+
+<table>
+<tr>
+
+<td width="50%" valign="center">
+
+> Technology evolves continuously, and engineers grow through learning, adaptability, and problem solving.
+
+<br>
+
+### 🔌 Logic • Analysis • Systems  
+### 💻 Development • Innovation • Design  
+### 🚀 Learn • Build • Evolve  
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 </td>
 
@@ -75,28 +199,53 @@
 
 </div>
 
----
+<br>
 
-# ⚡ Development Process
+<div align="center">
 
-```mermaid
-flowchart LR
-    A[📌 Plan] --> B[💻 Develop]
-    B --> C[🧪 Test]
-    C --> D[🚀 Deploy]
-    D --> E[⚡ Improve]
-```
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
+
+</div>
 
 ---
 
 # 🌐 System Architecture
 
-```mermaid
-flowchart TD
-    A[Frontend UI] --> B[Spring Boot API]
-    B --> C[MySQL Database]
-    B --> D[Authentication]
-```
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216654112-0ad946e7-7f7c-4e72-95b1-c0a74efbde8f.gif"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🎨 Frontend
+
+Responsive UI with HTML, CSS, Bootstrap, and JavaScript.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Backend
+
+Spring Boot APIs with authentication and database integration.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄 Database
+
+Efficient MySQL database architecture and connectivity.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -110,11 +259,15 @@ flowchart TD
 ### 🌐 Portfolio Website
 
 - Responsive Design  
-- Modern UI  
 - Interactive Components  
-- Smooth Animations  
-- Dark Theme  
+- Smooth UI  
+- Modern Layout  
+- Premium Dark Theme  
 - Developer Branding  
+
+<br>
+
+<img width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 </td>
 
@@ -127,7 +280,10 @@ flowchart TD
 - Authentication  
 - Database Integration  
 - Validation & Security  
-- Backend Architecture  
+
+<br>
+
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 </td>
 
@@ -139,11 +295,14 @@ flowchart TD
 
 ### 🔐 Authentication System
 
-- Login & Registration  
+- Validation  
 - Session Handling  
-- Backend Validation  
-- Secure Authentication  
-- Database Connectivity  
+- Backend Security  
+- Login & Registration  
+
+<br>
+
+<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
 
 </td>
 
@@ -153,10 +312,14 @@ flowchart TD
 
 - Arrays  
 - Linked Lists  
-- Stack & Queue  
 - Recursion  
+- Stack & Queue  
 - Sorting Algorithms  
-- Problem Solving  
+- Logical Thinking  
+
+<br>
+
+<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
 
 </td>
 
@@ -167,21 +330,39 @@ flowchart TD
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+</td>
+
+<td width="50%" align="center">
+
 <img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
 
-</div>
+</td>
 
-<br>
+</tr>
 
-<div align="center">
+<tr>
+
+<td width="50%" align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -197,38 +378,42 @@ flowchart TD
 
 # 🛠 Development Workflow
 
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-c4a1a9d4-7f6f-4d3c-8f08-ecfd8d4d6c31.gif"/>
+
+</div>
+
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
-### 📌 Plan
-
-Requirement analysis and architecture planning.
+### 📚 Learn
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
+
+### 🧠 Think
+
+</td>
+
+<td width="20%" align="center">
 
 ### 💻 Build
 
-Developing scalable frontend and backend systems.
+</td>
+
+<td width="20%" align="center">
+
+### 🧪 Improve
 
 </td>
 
-<td width="25%" align="center">
-
-### 🧪 Test
-
-Debugging and improving application quality.
-
-</td>
-
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🚀 Deploy
-
-Deployment and workflow optimization.
 
 </td>
 
@@ -267,42 +452,6 @@ Deployment and workflow optimization.
 
 ---
 
-# 🧩 Developer Traits
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔹 Technical Skills
-
-- Java Development  
-- Spring Boot APIs  
-- Frontend UI  
-- Database Integration  
-- Responsive Design  
-- REST APIs  
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔹 Soft Skills
-
-- Problem Solving  
-- Adaptability  
-- Team Collaboration  
-- Continuous Learning  
-- Analytical Thinking  
-- Creativity  
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -326,6 +475,10 @@ Deployment and workflow optimization.
 <div align="center">
 
 ### 💻 Code • Learn • Build • Evolve
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
