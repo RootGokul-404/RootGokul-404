@@ -70,10 +70,10 @@ The journey from EEE to IT strengthened adaptability, continuous learning, and t
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170em"
-src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -82,7 +82,7 @@ src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_b
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
