@@ -191,268 +191,181 @@ Problem solving repository focused on:
 
 <div align="center">
 
-<img width="48%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
-
-<img width="48%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-</div>
-
----
-
-## 🚀 Current Mission
-
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 💻 Development
+### 🖥 Workspace Setup
 
-Building modern full stack applications with scalable backend architecture.
+- VS Code Development Environment  
+- Linux Based Workflow  
+- Git & GitHub Version Control  
+- REST API Development  
+- Backend Architecture Design  
+- Responsive UI Development  
+- Modular Code Structure  
+- Scalable Project Architecture  
+- API Testing & Debugging  
+- Database Connectivity  
+- Spring Boot Workflow  
+- Frontend Optimization  
+- Systematic Project Structure  
+- Code Refactoring Practices  
+- Production Ready Development  
+- Cross Platform Development  
+- Java Development Workflow  
+- Clean Engineering Practices  
+- Multi Project Management  
+- Scalable Backend Systems  
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🧠 Learning
+### ⚙️ Daily Workflow
 
-Exploring AI integrated workflows and improving engineering skills continuously.
+- Planning Application Structure  
+- Designing System Architecture  
+- Building Full Stack Projects  
+- Writing Clean Maintainable Code  
+- Learning New Technologies  
+- Practicing DSA Problems  
+- Improving Problem Solving Skills  
+- Developing REST APIs  
+- Backend Testing & Validation  
+- UI Enhancement & Optimization  
+- Managing Database Systems  
+- Fixing Bugs Efficiently  
+- Improving Application Performance  
+- Exploring AI Integration  
+- Maintaining Git Repositories  
+- Improving Engineering Logic  
+- Testing Real World Scenarios  
+- Refactoring Existing Systems  
+- Improving Code Readability  
+- Developing Scalable Solutions  
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### ⚡ Growth
+### 🚀 Development Goals
 
-Focused on problem solving, consistency, and real world development practices.
+- Master Spring Boot Development  
+- Build Enterprise Applications  
+- Improve Backend Security  
+- Learn Advanced System Design  
+- Explore AI Driven Development  
+- Improve Full Stack Skills  
+- Learn DevOps Workflow  
+- Build Scalable APIs  
+- Improve Deployment Workflow  
+- Contribute to Open Source  
+- Master Software Engineering  
+- Build Production Ready Systems  
+- Improve Engineering Discipline  
+- Strengthen Problem Solving  
+- Learn Cloud Technologies  
+- Improve Development Speed  
+- Build Modern UI Systems  
+- Improve Architecture Design  
+- Learn Distributed Systems  
+- Become a Scalable Engineer  
 
 </td>
 
 </tr>
 </table>
-
----
-
-## 🌌 Engineering Journey
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 🔥 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 📈 Development Activity
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RootGokul-404&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RootGokul-404&theme=github_dark"/>
-
-</div>
-
----
-
-## 🛠 Development Workflow
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 📌 Plan
-
-Understanding requirements and designing architecture.
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻 Build
-
-Developing scalable frontend and backend systems.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧪 Test
-
-Improving quality, debugging, and optimization.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀 Deploy
-
-Deploying modern applications and improving workflows.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🎯 Learning Roadmap
-
-<div align="center">
-
-| Current Focus | Next Goal | Future Goal |
-|---|---|---|
-| Spring Boot | Cloud Learning | Scalable Systems |
-| Full Stack Development | DevOps Basics | System Design |
-| DSA & Logic | AI Integration | Advanced Engineering |
-
-</div>
-
----
-
-## 🌐 Digital Workspace
-
-<div align="center">
-
-<img width="32%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
-
-<img width="32%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
-
-<img width="32%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
 
 <br>
 
-<div align="center">
+```java
+class DeveloperEnvironment
+{
+    public static void main(String args[])
+    {
+        initialize();
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+        while(true)
+        {
+            learn();
+            research();
+            analyze();
+            plan();
+            design();
+            code();
+            build();
+            test();
+            debug();
+            optimize();
+            deploy();
+            improve();
+        }
+    }
 
-</div>
+    static void initialize()
+    {
+        System.out.println("Developer Environment Active");
+    }
 
----
+    static void learn()
+    {
+        System.out.println("Learning Modern Technologies");
+    }
 
-## 🔥 Contribution Graph
+    static void research()
+    {
+        System.out.println("Researching Engineering Concepts");
+    }
 
-<div align="center">
+    static void analyze()
+    {
+        System.out.println("Analyzing System Requirements");
+    }
 
-<a href="https://github.com/RootGokul-404" target="_blank">
+    static void plan()
+    {
+        System.out.println("Planning Application Architecture");
+    }
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
+    static void design()
+    {
+        System.out.println("Designing Scalable Systems");
+    }
 
-</a>
+    static void code()
+    {
+        System.out.println("Developing Modern Applications");
+    }
 
-</div>
+    static void build()
+    {
+        System.out.println("Building Full Stack Projects");
+    }
 
----
+    static void test()
+    {
+        System.out.println("Testing Application Features");
+    }
 
-## ⚙️ System Status
+    static void debug()
+    {
+        System.out.println("Fixing Bugs & Optimizing Code");
+    }
 
-<div align="center">
+    static void optimize()
+    {
+        System.out.println("Improving Performance & Scalability");
+    }
 
-| Component | Status |
-|---|---|
-| Backend Development | ✅ Active |
-| Frontend Development | ✅ Active |
-| DSA Practice | ✅ Running |
-| AI Learning | ✅ Exploring |
-| Open Source Journey | 🚀 Growing |
+    static void deploy()
+    {
+        System.out.println("Deploying Production Systems");
+    }
 
-</div>
-
----
-
-## 🧩 Developer Traits
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔹 Technical Skills
-
-- Java Development  
-- Spring Boot APIs  
-- Frontend UI  
-- Database Integration  
-- Responsive Design  
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔹 Soft Skills
-
-- Problem Solving  
-- Adaptability  
-- Team Collaboration  
-- Continuous Learning  
-- Analytical Thinking  
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://instagram.com/ivan_gokula_kannan" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code • Learn • Build • Evolve
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B0F19,35:111827,70:1F2937,100:334155"/>
-
-</div>
+    static void improve()
+    {
+        System.out.println("Improving Engineering Skills");
+    }
+}
