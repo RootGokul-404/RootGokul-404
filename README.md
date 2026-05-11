@@ -1,36 +1,28 @@
 <div align="center">
 
-<img src="https://github.com/RootGokul-404.png" width="190"/>
+<img src="https://github.com/RootGokul-404.png" width="200"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:0B0F19,35:111827,70:1F2937,100:334155&text=ROOTGOKUL-404&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0B0F19,50:111827,100:1F2937&text=ROOTGOKUL-404&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner;Building+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner;Building+Modern+Applications" />
 
 <br><br>
 
 <a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=0F172A&labelColor=1E293B"/>
+<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=111827"/>
 </a>
 
 <a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=RootGokul-404&style=for-the-badge&color=111827"/>
 </a>
 
 <a href="mailto:gokulakannan7972@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 </div>
 
@@ -43,31 +35,31 @@
 
 <td width="33%" align="center">
 
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 💻 Building
 
-Creating scalable applications and modern backend systems.
+Creating scalable applications and backend systems.
 
 </td>
 
 <td width="33%" align="center">
 
-<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
 
 ### 🚀 Learning
 
-Exploring AI workflows and improving engineering skills.
+Exploring AI workflows and modern engineering.
 
 </td>
 
 <td width="33%" align="center">
 
-<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
 
 ### ⚡ Growing
 
-Focused on consistency and real world development.
+Focused on real world development and consistency.
 
 </td>
 
@@ -76,37 +68,36 @@ Focused on consistency and real world development.
 
 ---
 
-# ⚡ Developer Profile
+# 🧠 About Me
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🧠 Current Focus
+### 🚀 Current Focus
 
 - Full Stack Development  
-- Backend Architecture  
 - Spring Boot APIs  
+- Backend Architecture  
 - DSA & Problem Solving  
 - AI Integrated Development  
 - Modern UI Systems  
-- Scalable Applications  
 - REST API Development  
+- Scalable Applications  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 Engineering Mindset
+### ⚡ Engineering Mindset
 
 - Continuous Learning  
 - Scalable Thinking  
 - Adaptability  
 - Problem Solving  
-- Innovation Driven Development  
 - Clean Architecture  
-- Performance Optimization  
+- Innovation Driven Development  
 - Modern Engineering Practices  
 
 </td>
@@ -135,20 +126,12 @@ Focused on consistency and real world development.
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-
-</div>
 
 ---
 
@@ -188,7 +171,7 @@ Focused on consistency and real world development.
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+<img width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 </td>
 
@@ -200,12 +183,11 @@ Focused on consistency and real world development.
 - REST APIs  
 - Authentication  
 - Database Integration  
-- Validation  
-- Security Handling  
+- Validation & Security  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 </td>
 
@@ -220,13 +202,11 @@ Focused on consistency and real world development.
 - Validation  
 - Session Handling  
 - Backend Security  
-- Database Connectivity  
-- Login System  
-- Registration Module  
+- Login & Registration  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
 
 </td>
 
@@ -237,28 +217,17 @@ Focused on consistency and real world development.
 - Arrays  
 - Linked Lists  
 - Recursion  
-- Sorting Algorithms  
 - Stack & Queue  
-- Logical Thinking  
+- Sorting Algorithms  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-# 🌌 Engineering Journey
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
@@ -291,7 +260,7 @@ Focused on consistency and real world development.
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 </td>
 
@@ -317,7 +286,7 @@ Focused on consistency and real world development.
 
 <td width="25%" align="center">
 
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 📌 Plan
 
@@ -327,7 +296,7 @@ Requirement analysis and architecture design.
 
 <td width="25%" align="center">
 
-<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
 
 ### 💻 Build
 
@@ -337,7 +306,7 @@ Developing scalable applications.
 
 <td width="25%" align="center">
 
-<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
 
 ### 🧪 Test
 
@@ -347,7 +316,7 @@ Debugging and optimization.
 
 <td width="25%" align="center">
 
-<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 ### 🚀 Deploy
 
@@ -390,56 +359,20 @@ Deployment and workflow improvement.
 
 ---
 
-# 🧩 Developer Traits
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔹 Technical Skills
-
-- Java Development  
-- Spring Boot APIs  
-- Frontend UI  
-- Database Integration  
-- Responsive Design  
-- REST APIs  
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔹 Soft Skills
-
-- Problem Solving  
-- Adaptability  
-- Team Collaboration  
-- Continuous Learning  
-- Analytical Thinking  
-- Creativity  
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://instagram.com/ivan_gokula_kannan" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:gokulakannan7972@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -460,6 +393,6 @@ Deployment and workflow improvement.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B0F19,35:111827,70:1F2937,100:334155"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
 
 </div>
