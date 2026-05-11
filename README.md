@@ -1,50 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000428,30:004e92,70:00F7FF,100:00C6FF&text=ROOTGOKUL-404&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=SOFTWARE+DEVELOPER;JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+DEVELOPER;PROBLEM+SOLVER;AI+DRIVEN+LEARNER;BUILDING+THE+FUTURE+WITH+CODE" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1200&lines=SOFTWARE+DEVELOPER;JAVA+FULL+STACK+ENGINEER;SPRING+BOOT+DEVELOPER;AI+DRIVEN+LEARNER;PROBLEM+SOLVER;BUILDING+MODERN+DIGITAL+EXPERIENCES" />
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=00F7FF&labelColor=000000"/>
 
-<img src="https://img.shields.io/github/stars/RootGokul-404?style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/github/stars/RootGokul-404?style=for-the-badge&color=00F7FF&labelColor=000000"/>
 
 </div>
 
 ---
 
-# ⚡ ROOTGOKUL-404
+<div align="center">
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+# ⚡ DIGITAL ENGINEER • FUTURE BUILDER • CONTINUOUS LEARNER ⚡
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="55%">
+
+# 🧠 ABOUT ME
 
 ```yaml
 name: Gokulakannan
 
-role:
+identity:
   - Software Developer
-  - Java Full Stack Developer
+  - Full Stack Engineer
   - AI Driven Learner
+
+passion:
+  - Building scalable applications
+  - Solving real-world problems
+  - Learning emerging technologies
 
 currently_learning:
   - Spring Boot
-  - Backend Development
-  - DSA
+  - Backend Architecture
   - AI Integrated Development
+  - Advanced DSA
 
 mindset:
   - Learn Fast
   - Build Smart
   - Adapt Continuously
   - Stay Future Ready
-
-focus:
-  - Scalable Applications
-  - Modern Technologies
-  - Problem Solving
 ```
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -52,50 +76,35 @@ focus:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Engineering+Is+About+Problem+Solving;Technology+Has+No+Boundaries;The+Future+Belongs+To+Adaptive+Engineers;Learning+Is+The+Real+Superpower" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2400&color=00F7FF&center=true&vCenter=true&width=1000&lines=Engineering+Is+About+Problem+Solving;Technology+Has+No+Boundaries;Adaptive+Engineers+Shape+The+Future;Learning+Is+The+Real+Superpower" />
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td width="33%" align="center">
+| 🔌 EEE | 💻 IT | 🚀 ENGINEER |
+|---|---|---|
+| Logic | Development | Problem Solver |
+| Systems | Innovation | Fast Learner |
+| Analysis | Technology | Adaptive Thinker |
+| Technical Thinking | Modern Solutions | Future Ready |
 
-# 🔌 EEE
+</div>
 
-Logic  
-Analysis  
-Systems  
-Technical Thinking  
+---
 
-</td>
+# 🌌 DEVELOPER DNA
 
-<td width="33%" align="center">
+<div align="center">
 
-# 💻 IT
+### ⚡ Engineering taught me logic.
+### 🚀 Software development taught me innovation.
+### 🤖 AI taught me adaptation.
+### 💻 Building projects taught me growth.
 
-Development  
-Innovation  
-Technology  
-Modern Solutions  
-
-</td>
-
-<td width="33%" align="center">
-
-# 🚀 ENGINEER
-
-Problem Solver  
-Fast Learner  
-Adaptive Mindset  
-Future Ready  
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -129,7 +138,7 @@ Future Ready
 
 ---
 
-# 🧠 SKILLS
+# 🧠 CORE EXPERTISE
 
 <div align="center">
 
@@ -143,7 +152,7 @@ Future Ready
 
 <img src="https://img.shields.io/badge/PROBLEM_SOLVING-f72585?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI_LEARNER-06d6a0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_LEARNING-06d6a0?style=for-the-badge"/>
 
 </div>
 
@@ -153,14 +162,75 @@ Future Ready
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 🌐 Portfolio Website | Responsive modern portfolio with animations |
-| ☕ Student Management System | Java + MySQL CRUD application |
-| 🚀 Spring Boot REST API | Backend REST APIs using Spring Boot |
-| 🔐 Authentication System | Secure login & registration system |
-| 🛒 E-Commerce Frontend | Responsive shopping UI |
-| 📚 DSA Repository | Problem solving and interview preparation |
+<table>
+
+<tr>
+
+<td width="50%">
+
+# 🌐 PORTFOLIO WEBSITE
+
+Modern responsive portfolio with:
+- Dark neon UI
+- Smooth animations
+- Responsive design
+- Developer branding
+
+### Stack
+HTML • CSS • Bootstrap • JavaScript
+
+</td>
+
+<td width="50%">
+
+# 🚀 SPRING BOOT REST API
+
+Backend API system with:
+- CRUD operations
+- REST architecture
+- Database integration
+- Secure endpoints
+
+### Stack
+Spring Boot • Java • MySQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+# 🔐 AUTHENTICATION SYSTEM
+
+Secure authentication project featuring:
+- Login/Register
+- Session handling
+- Validation logic
+- Backend integration
+
+### Stack
+Spring Boot • Java • MySQL
+
+</td>
+
+<td width="50%">
+
+# 📚 DSA REPOSITORY
+
+Problem solving repository focused on:
+- Arrays
+- Linked Lists
+- Stack & Queue
+- Recursion
+- Sorting Algorithms
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -190,7 +260,7 @@ Future Ready
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -206,17 +276,17 @@ Future Ready
 
 ---
 
-# 💭 DEVELOPER PHILOSOPHY
+# 💭 PHILOSOPHY
 
 <div align="center">
 
-## ⚡ "Technology Never Stops Evolving — Neither Do I."
+# ⚡ "Technology Never Stops Evolving — Neither Do I."
 
-## 🚀 "Consistency Creates Growth."
+# 🚀 "Consistency Builds Mastery."
 
-## 🤖 "AI Will Empower Engineers Who Keep Learning."
+# 🤖 "Engineers Using AI Will Shape The Future."
 
-## 💻 "Code • Learn • Build • Evolve"
+# 💻 "Code • Learn • Build • Evolve"
 
 </div>
 
@@ -224,6 +294,6 @@ Future Ready
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000428,50:004e92,100:00F7FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000428,30:004e92,70:00F7FF,100:00C6FF&section=footer"/>
 
 </div>
