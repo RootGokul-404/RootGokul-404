@@ -10,20 +10,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner;Building+Modern+Applications" />
 
-<br><br>
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=111827"/>
-</a>
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&style=for-the-badge&color=111827"/>
-</a>
-
-<a href="mailto:gokulakannan7972@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -43,9 +29,9 @@
 
 ## 📌 Plan
 
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png"/>
+<img width="100%" src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png"/>
 
-Requirement analysis and architecture planning.
+Requirement analysis and project planning.
 
 </td>
 
@@ -53,7 +39,7 @@ Requirement analysis and architecture planning.
 
 ## 💻 Develop
 
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>
+<img width="100%" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>
 
 Building scalable frontend and backend systems.
 
@@ -63,9 +49,9 @@ Building scalable frontend and backend systems.
 
 ## 🧪 Test
 
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png"/>
+<img width="100%" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png"/>
 
-Debugging and improving application quality.
+Debugging, optimization, and quality improvement.
 
 </td>
 
@@ -73,9 +59,9 @@ Debugging and improving application quality.
 
 ## 🚀 Deploy
 
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
+<img width="100%" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
 
-Deployment and workflow optimization.
+Deployment and workflow enhancement.
 
 </td>
 
@@ -105,7 +91,7 @@ Creating scalable applications and backend systems.
 
 ### 🚀 Learning
 
-Exploring AI workflows and modern technologies.
+Exploring AI workflows and modern engineering.
 
 </td>
 
@@ -121,91 +107,6 @@ Focused on real world development and consistency.
 
 </tr>
 </table>
-
----
-
-# 🧠 About Me
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Current Focus
-
-- Full Stack Development  
-- Spring Boot APIs  
-- Backend Architecture  
-- DSA & Problem Solving  
-- AI Integrated Development  
-- Modern UI Systems  
-- REST API Development  
-- Scalable Applications  
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Engineering Mindset
-
-- Continuous Learning  
-- Scalable Thinking  
-- Adaptability  
-- Problem Solving  
-- Clean Architecture  
-- Innovation Driven Development  
-- Modern Engineering Practices  
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌌 Engineering Philosophy
-
-<table>
-<tr>
-
-<td width="50%" valign="center">
-
-> Technology evolves continuously, and engineers grow through learning, adaptability, and problem solving.
-
-<br>
-
-### 🔌 Logic • Analysis • Systems  
-### 💻 Development • Innovation • Design  
-### 🚀 Learn • Build • Evolve  
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚔️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,git,github,linux,vscode"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
-
-</div>
 
 ---
 
@@ -249,134 +150,7 @@ Efficient MySQL database architecture and connectivity.
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-
-- Responsive Design  
-- Interactive Components  
-- Smooth UI  
-- Modern Layout  
-- Premium Dark Theme  
-- Developer Branding  
-
-<br>
-
-<img width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Spring Boot REST API
-
-- CRUD Operations  
-- REST APIs  
-- Authentication  
-- Database Integration  
-- Validation & Security  
-
-<br>
-
-<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 Authentication System
-
-- Validation  
-- Session Handling  
-- Backend Security  
-- Login & Registration  
-
-<br>
-
-<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 DSA Repository
-
-- Arrays  
-- Linked Lists  
-- Recursion  
-- Stack & Queue  
-- Sorting Algorithms  
-- Logical Thinking  
-
-<br>
-
-<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔥 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🛠 Development Workflow
+# 🚀 Engineering Workflow
 
 <div align="center">
 
@@ -422,31 +196,31 @@ Efficient MySQL database architecture and connectivity.
 
 ---
 
-# 🎯 Learning Roadmap
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Current Focus | Next Goal | Future Goal |
-|---|---|---|
-| Spring Boot | Cloud Learning | Scalable Systems |
-| Full Stack Development | DevOps Basics | System Design |
-| DSA & Logic | AI Integration | Advanced Engineering |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚙️ System Status
+# 🔥 Contribution Graph
 
 <div align="center">
 
-| Component | Status |
-|---|---|
-| Backend Development | ✅ Active |
-| Frontend Development | ✅ Active |
-| DSA Practice | ✅ Running |
-| AI Learning | ✅ Exploring |
-| Open Source Journey | 🚀 Growing |
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -475,10 +249,6 @@ Efficient MySQL database architecture and connectivity.
 <div align="center">
 
 ### 💻 Code • Learn • Build • Evolve
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
