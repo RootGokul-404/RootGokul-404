@@ -8,11 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner;Building+Modern+Applications" />
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216649433-cb6d0c73-0f02-4f3b-9f91-6c5d8b5f0f65.gif" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner" />
 
 <br><br>
 
@@ -52,9 +48,17 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1b-8f5f-6f8bde9d4fcb.gif" width="100%"/>
+### 🧠 Engineering Mindset
+
+- Continuous Learning  
+- Adaptability  
+- Scalable Thinking  
+- Problem Solving  
+- Clean Architecture  
+- Modern Development Practices  
+- Innovation Driven Development  
 
 </td>
 
@@ -69,21 +73,11 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,git,github,linux,vscode"/>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216655848-c4a1a9d4-7f6f-4d3c-8f08-ecfd8d4d6c31.gif" width="100%"/>
-
 </div>
 
 ---
 
 # ⚡ Development Process
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf2e4f-84d2-4c3f-8f52-fd3b0c1b8b5a.gif" width="100%"/>
-
-</div>
 
 ```mermaid
 flowchart LR
@@ -96,12 +90,6 @@ flowchart LR
 ---
 
 # 🌐 System Architecture
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216654112-0ad946e7-7f7c-4e72-95b1-c0a74efbde8f.gif" width="100%"/>
-
-</div>
 
 ```mermaid
 flowchart TD
@@ -128,10 +116,6 @@ flowchart TD
 - Dark Theme  
 - Developer Branding  
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656960-efec1f6f-4c65-4e2f-bdf4-ff0f0f88a0d3.gif" width="100%"/>
-
 </td>
 
 <td width="50%" valign="top">
@@ -144,10 +128,6 @@ flowchart TD
 - Database Integration  
 - Validation & Security  
 - Backend Architecture  
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216655811-4340a3c4-0454-4b0d-9d88-38fcbcb5cb4d.gif" width="100%"/>
 
 </td>
 
@@ -165,10 +145,6 @@ flowchart TD
 - Secure Authentication  
 - Database Connectivity  
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656943-d4f5b6e8-3b59-4d6b-9134-9e0c83c9c56b.gif" width="100%"/>
-
 </td>
 
 <td width="50%" valign="top">
@@ -181,10 +157,6 @@ flowchart TD
 - Recursion  
 - Sorting Algorithms  
 - Problem Solving  
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656999-9a7b5f43-06b5-43df-a4ef-6e3e5d3c2a7d.gif" width="100%"/>
 
 </td>
 
@@ -201,7 +173,11 @@ flowchart TD
 
 <img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -220,12 +196,6 @@ flowchart TD
 ---
 
 # 🛠 Development Workflow
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216649450-0f8e7b6d-00fa-4d4f-92d3-6ef3a8d85b89.gif" width="100%"/>
-
-</div>
 
 <table>
 <tr>
@@ -281,6 +251,58 @@ Deployment and workflow optimization.
 
 ---
 
+# ⚙️ System Status
+
+<div align="center">
+
+| Component | Status |
+|---|---|
+| Backend Development | ✅ Active |
+| Frontend Development | ✅ Active |
+| DSA Practice | ✅ Running |
+| AI Learning | ✅ Exploring |
+| Open Source Journey | 🚀 Growing |
+
+</div>
+
+---
+
+# 🧩 Developer Traits
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔹 Technical Skills
+
+- Java Development  
+- Spring Boot APIs  
+- Frontend UI  
+- Database Integration  
+- Responsive Design  
+- REST APIs  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Soft Skills
+
+- Problem Solving  
+- Adaptability  
+- Team Collaboration  
+- Continuous Learning  
+- Analytical Thinking  
+- Creativity  
+
+</td>
+
+</tr>
+</table>
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
@@ -305,8 +327,12 @@ Deployment and workflow optimization.
 
 ### 💻 Code • Learn • Build • Evolve
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
 
 </div>
