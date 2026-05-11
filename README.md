@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RootGokul-404/RootGokul-404/main/assets/profile.png" width="180"/>
+<img src="https://github.com/RootGokul-404.png" width="180"/>
 
 <br><br>
 
@@ -58,6 +58,8 @@
 - Spring Boot APIs  
 - DSA & Problem Solving  
 - AI Integrated Development  
+- AI Assisted Development  
+- Modern UI Systems  
 
 </td>
 
@@ -70,6 +72,8 @@
 - Modern Development  
 - Adaptability  
 - Real World Problem Solving  
+- Clean Architecture  
+- Innovation Driven Development  
 
 </td>
 
@@ -149,6 +153,7 @@ Modern responsive portfolio with:
 - Responsive Design
 - Developer Branding
 - Interactive Components
+- Dark Premium Theme
 
 #### Stack
 HTML • CSS • Bootstrap • JavaScript
@@ -164,6 +169,7 @@ Backend API architecture featuring:
 - REST APIs
 - Authentication
 - Database Integration
+- Validation & Security
 
 #### Stack
 Spring Boot • Java • MySQL
@@ -182,6 +188,7 @@ Secure login and registration system with:
 - Validation
 - Session Handling
 - Backend Security
+- Database Connectivity
 
 </td>
 
@@ -195,6 +202,7 @@ Problem solving repository focused on:
 - Stack & Queue
 - Recursion
 - Sorting Algorithms
+- Logical Thinking
 
 </td>
 
