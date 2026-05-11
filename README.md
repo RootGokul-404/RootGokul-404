@@ -36,15 +36,7 @@
 
 ---
 
-<div align="center">
-
-# ⚡ Developer Profile
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner" />
-
-</div>
-
-<br>
+## ⚡ Developer Profile
 
 <table>
 <tr>
@@ -82,26 +74,10 @@
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌌 Engineering Philosophy
-
-</div>
-
-<br>
+## 🌌 Engineering Philosophy
 
 > Engineering is not limited to one domain.  
 > Technology evolves continuously, and engineers grow by adapting, learning, and building impactful solutions.
-
-<br>
 
 <div align="center">
 
@@ -115,7 +91,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
 </div>
 
@@ -211,9 +187,149 @@ Problem solving repository focused on:
 
 ---
 
+## ⚡ Developer Environment
+
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
+<img width="48%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
+<img width="48%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</div>
+
+---
+
+## 🚀 Current Mission
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Development
+
+Building modern full stack applications with scalable backend architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 Learning
+
+Exploring AI integrated workflows and improving engineering skills continuously.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ Growth
+
+Focused on problem solving, consistency, and real world development practices.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌌 Engineering Journey
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 📈 Development Activity
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RootGokul-404&theme=github_dark"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RootGokul-404&theme=github_dark"/>
+
+</div>
+
+---
+
+## 🛠 Development Workflow
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 📌 Plan
+
+Understanding requirements and designing architecture.
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻 Build
+
+Developing scalable frontend and backend systems.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧪 Test
+
+Improving quality, debugging, and optimization.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚀 Deploy
+
+Deploying modern applications and improving workflows.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Learning Roadmap
+
+<div align="center">
+
+| Current Focus | Next Goal | Future Goal |
+|---|---|---|
+| Spring Boot | Cloud Learning | Scalable Systems |
+| Full Stack Development | DevOps Basics | System Design |
+| DSA & Logic | AI Integration | Advanced Engineering |
+
+</div>
+
+---
+
+## 🌐 Digital Workspace
+
+<div align="center">
+
+<img width="32%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+
+<img width="32%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+
+<img width="32%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
 
 </div>
 
@@ -253,11 +369,53 @@ Problem solving repository focused on:
 
 ---
 
+## ⚙️ System Status
+
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/retro.png"/>
+| Component | Status |
+|---|---|
+| Backend Development | ✅ Active |
+| Frontend Development | ✅ Active |
+| DSA Practice | ✅ Running |
+| AI Learning | ✅ Exploring |
+| Open Source Journey | 🚀 Growing |
 
 </div>
+
+---
+
+## 🧩 Developer Traits
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔹 Technical Skills
+
+- Java Development  
+- Spring Boot APIs  
+- Frontend UI  
+- Database Integration  
+- Responsive Design  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Soft Skills
+
+- Problem Solving  
+- Adaptability  
+- Team Collaboration  
+- Continuous Learning  
+- Analytical Thinking  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
