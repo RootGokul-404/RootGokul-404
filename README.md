@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://github.com/RootGokul-404.png" width="200"/>
+<img src="https://github.com/RootGokul-404.png" width="180"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0B0F19,50:111827,100:1F2937&text=ROOTGOKUL-404&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B0F19,50:111827,100:1F2937&text=ROOTGOKUL-404&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Engineer;Spring+Boot+Developer;AI+Driven+Learner;Building+Modern+Applications" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216649433-cb6d0c73-0f02-4f3b-9f91-6c5d8b5f0f65.gif" width="100%"/>
 
 <br><br>
 
@@ -28,103 +32,7 @@
 
 ---
 
-# ⚡ Development Process
-
-<div align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bcf2e4f-84d2-4c3f-8f52-fd3b0c1b8b5a.gif"/>
-
-</div>
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-## 📌 Plan
-
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png"/>
-
-Requirement analysis and architecture planning.
-
-</td>
-
-<td width="25%" align="center">
-
-## 💻 Develop
-
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>
-
-Building scalable frontend and backend systems.
-
-</td>
-
-<td width="25%" align="center">
-
-## 🧪 Test
-
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png"/>
-
-Debugging and improving application quality.
-
-</td>
-
-<td width="25%" align="center">
-
-## 🚀 Deploy
-
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
-
-Deployment and workflow optimization.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ Developer Dashboard
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### 💻 Building
-
-Creating scalable applications and backend systems.
-
-</td>
-
-<td width="33%" align="center">
-
-<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
-
-### 🚀 Learning
-
-Exploring AI workflows and modern technologies.
-
-</td>
-
-<td width="33%" align="center">
-
-<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
-
-### ⚡ Growing
-
-Focused on real world development and consistency.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 About Me
+# ⚡ About Me
 
 <table>
 <tr>
@@ -144,45 +52,9 @@ Focused on real world development and consistency.
 
 </td>
 
-<td width="50%" valign="top">
-
-### ⚡ Engineering Mindset
-
-- Continuous Learning  
-- Scalable Thinking  
-- Adaptability  
-- Problem Solving  
-- Clean Architecture  
-- Innovation Driven Development  
-- Modern Engineering Practices  
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌌 Engineering Philosophy
-
-<table>
-<tr>
-
-<td width="50%" valign="center">
-
-> Technology evolves continuously, and engineers grow through learning, adaptability, and problem solving.
-
-<br>
-
-### 🔌 Logic • Analysis • Systems  
-### 💻 Development • Innovation • Design  
-### 🚀 Learn • Build • Evolve  
-
-</td>
-
 <td width="50%" align="center">
 
-<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1b-8f5f-6f8bde9d4fcb.gif" width="100%"/>
 
 </td>
 
@@ -197,15 +69,29 @@ Focused on real world development and consistency.
 
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,git,github,linux,vscode"/>
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216655848-c4a1a9d4-7f6f-4d3c-8f08-ecfd8d4d6c31.gif" width="100%"/>
+
 </div>
 
-<br>
+---
+
+# ⚡ Development Process
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf2e4f-84d2-4c3f-8f52-fd3b0c1b8b5a.gif" width="100%"/>
 
 </div>
+
+```mermaid
+flowchart LR
+    A[📌 Plan] --> B[💻 Develop]
+    B --> C[🧪 Test]
+    C --> D[🚀 Deploy]
+    D --> E[⚡ Improve]
+```
 
 ---
 
@@ -213,39 +99,16 @@ Focused on real world development and consistency.
 
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216654112-0ad946e7-7f7c-4e72-95b1-c0a74efbde8f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216654112-0ad946e7-7f7c-4e72-95b1-c0a74efbde8f.gif" width="100%"/>
 
 </div>
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🎨 Frontend
-
-Responsive UI with HTML, CSS, Bootstrap, and JavaScript.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Backend
-
-Spring Boot APIs with authentication and database integration.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗄 Database
-
-Efficient MySQL database architecture and connectivity.
-
-</td>
-
-</tr>
-</table>
+```mermaid
+flowchart TD
+    A[Frontend UI] --> B[Spring Boot API]
+    B --> C[MySQL Database]
+    B --> D[Authentication]
+```
 
 ---
 
@@ -259,15 +122,15 @@ Efficient MySQL database architecture and connectivity.
 ### 🌐 Portfolio Website
 
 - Responsive Design  
+- Modern UI  
 - Interactive Components  
-- Smooth UI  
-- Modern Layout  
-- Premium Dark Theme  
+- Smooth Animations  
+- Dark Theme  
 - Developer Branding  
 
 <br>
 
-<img width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656960-efec1f6f-4c65-4e2f-bdf4-ff0f0f88a0d3.gif" width="100%"/>
 
 </td>
 
@@ -280,10 +143,11 @@ Efficient MySQL database architecture and connectivity.
 - Authentication  
 - Database Integration  
 - Validation & Security  
+- Backend Architecture  
 
 <br>
 
-<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216655811-4340a3c4-0454-4b0d-9d88-38fcbcb5cb4d.gif" width="100%"/>
 
 </td>
 
@@ -295,14 +159,15 @@ Efficient MySQL database architecture and connectivity.
 
 ### 🔐 Authentication System
 
-- Validation  
-- Session Handling  
-- Backend Security  
 - Login & Registration  
+- Session Handling  
+- Backend Validation  
+- Secure Authentication  
+- Database Connectivity  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656943-d4f5b6e8-3b59-4d6b-9134-9e0c83c9c56b.gif" width="100%"/>
 
 </td>
 
@@ -312,14 +177,14 @@ Efficient MySQL database architecture and connectivity.
 
 - Arrays  
 - Linked Lists  
-- Recursion  
 - Stack & Queue  
+- Recursion  
 - Sorting Algorithms  
-- Logical Thinking  
+- Problem Solving  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656999-9a7b5f43-06b5-43df-a4ef-6e3e5d3c2a7d.gif" width="100%"/>
 
 </td>
 
@@ -330,39 +195,17 @@ Efficient MySQL database architecture and connectivity.
 
 # 📊 GitHub Analytics
 
-<table>
-<tr>
-
-<td width="50%" align="center">
+<div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</td>
-
-<td width="50%" align="center">
-
 <img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<br><br>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -380,40 +223,42 @@ Efficient MySQL database architecture and connectivity.
 
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-c4a1a9d4-7f6f-4d3c-8f08-ecfd8d4d6c31.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216649450-0f8e7b6d-00fa-4d4f-92d3-6ef3a8d85b89.gif" width="100%"/>
 
 </div>
 
 <table>
 <tr>
 
-<td width="20%" align="center">
+<td width="25%" align="center">
 
-### 📚 Learn
+### 📌 Plan
 
-</td>
-
-<td width="20%" align="center">
-
-### 🧠 Think
+Requirement analysis and architecture planning.
 
 </td>
 
-<td width="20%" align="center">
+<td width="25%" align="center">
 
 ### 💻 Build
 
-</td>
-
-<td width="20%" align="center">
-
-### 🧪 Improve
+Developing scalable frontend and backend systems.
 
 </td>
 
-<td width="20%" align="center">
+<td width="25%" align="center">
+
+### 🧪 Test
+
+Debugging and improving application quality.
+
+</td>
+
+<td width="25%" align="center">
 
 ### 🚀 Deploy
+
+Deployment and workflow optimization.
 
 </td>
 
@@ -431,22 +276,6 @@ Efficient MySQL database architecture and connectivity.
 | Spring Boot | Cloud Learning | Scalable Systems |
 | Full Stack Development | DevOps Basics | System Design |
 | DSA & Logic | AI Integration | Advanced Engineering |
-
-</div>
-
----
-
-# ⚙️ System Status
-
-<div align="center">
-
-| Component | Status |
-|---|---|
-| Backend Development | ✅ Active |
-| Frontend Development | ✅ Active |
-| DSA Practice | ✅ Running |
-| AI Learning | ✅ Exploring |
-| Open Source Journey | 🚀 Growing |
 
 </div>
 
@@ -478,14 +307,6 @@ Efficient MySQL database architecture and connectivity.
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B0F19,50:111827,100:1F2937"/>
 
 </div>
