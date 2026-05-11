@@ -110,15 +110,7 @@ current_focus:
 
 <div align="center">
 
-# 🌌 CYBER VISUALS
-
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-7a7f9a7e-7f0f-4d44-94b2-3d3f5b2ef79b.gif"/>
-
-<br><br>
-
-<img width="48%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-<img width="48%" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4506-b84d-8f1c1e7c4e5a.gif"/>
 
 </div>
 
@@ -260,16 +252,6 @@ TOPICS:
 
 <div align="center">
 
-# ⚡ DEVELOPER MODE ACTIVATED
-
-<img width="85%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 📊 LIVE SYSTEM ANALYTICS
 
 </div>
@@ -310,20 +292,6 @@ TOPICS:
 
 <div align="center">
 
-# 🚀 AI • CODE • BUILD
-
-<img width="32%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-<img width="32%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
-
-<img width="32%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 🌐 DIGITAL FOOTPRINT
 
 <br>
@@ -355,14 +323,6 @@ SO NEITHER DO I.
 
 CODE • LEARN • BUILD • EVOLVE
 ```
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif"/>
 
 </div>
 
