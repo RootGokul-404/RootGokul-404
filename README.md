@@ -28,6 +28,62 @@
 
 ---
 
+# ⚡ Development Process
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bcf2e4f-84d2-4c3f-8f52-fd3b0c1b8b5a.gif"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 📌 Plan
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png"/>
+
+Requirement analysis and architecture planning.
+
+</td>
+
+<td width="25%" align="center">
+
+## 💻 Develop
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>
+
+Building scalable frontend and backend systems.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🧪 Test
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png"/>
+
+Debugging and improving application quality.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🚀 Deploy
+
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
+
+Deployment and workflow optimization.
+
+</td>
+
+</tr>
+</table>
+
+---
+
 # ⚡ Developer Dashboard
 
 <table>
@@ -49,7 +105,7 @@ Creating scalable applications and backend systems.
 
 ### 🚀 Learning
 
-Exploring AI workflows and modern engineering.
+Exploring AI workflows and modern technologies.
 
 </td>
 
@@ -114,7 +170,7 @@ Focused on real world development and consistency.
 
 <td width="50%" valign="center">
 
-> Technology evolves continuously, and engineers grow by adapting, learning, and building impactful solutions.
+> Technology evolves continuously, and engineers grow through learning, adaptability, and problem solving.
 
 <br>
 
@@ -150,6 +206,46 @@ Focused on real world development and consistency.
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
 
 </div>
+
+---
+
+# 🌐 System Architecture
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216654112-0ad946e7-7f7c-4e72-95b1-c0a74efbde8f.gif"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🎨 Frontend
+
+Responsive UI with HTML, CSS, Bootstrap, and JavaScript.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Backend
+
+Spring Boot APIs with authentication and database integration.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄 Database
+
+Efficient MySQL database architecture and connectivity.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -219,6 +315,7 @@ Focused on real world development and consistency.
 - Recursion  
 - Stack & Queue  
 - Sorting Algorithms  
+- Logical Thinking  
 
 <br>
 
@@ -281,46 +378,42 @@ Focused on real world development and consistency.
 
 # 🛠 Development Workflow
 
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-c4a1a9d4-7f6f-4d3c-8f08-ecfd8d4d6c31.gif"/>
+
+</div>
+
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
-<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### 📌 Plan
-
-Requirement analysis and architecture design.
+### 📚 Learn
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
-<img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/programming-computer.gif"/>
+### 🧠 Think
+
+</td>
+
+<td width="20%" align="center">
 
 ### 💻 Build
 
-Developing scalable applications.
+</td>
+
+<td width="20%" align="center">
+
+### 🧪 Improve
 
 </td>
 
-<td width="25%" align="center">
-
-<img width="100%" src="https://media.tenor.com/hlKEXPvlX48AAAAd/computer-working.gif"/>
-
-### 🧪 Test
-
-Debugging and optimization.
-
-</td>
-
-<td width="25%" align="center">
-
-<img width="100%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+<td width="20%" align="center">
 
 ### 🚀 Deploy
-
-Deployment and workflow improvement.
 
 </td>
 
