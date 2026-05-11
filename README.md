@@ -36,18 +36,18 @@
 
 ---
 
-## ⚡ Developer Dashboard
+# ⚡ Developer Dashboard
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 ### 💻 Building
 
-Creating modern full stack applications with scalable backend systems.
+Creating scalable applications and modern backend systems.
 
 </td>
 
@@ -57,17 +57,17 @@ Creating modern full stack applications with scalable backend systems.
 
 ### 🚀 Learning
 
-Exploring AI integrated development and improving engineering workflows.
+Exploring AI workflows and improving engineering skills.
 
 </td>
 
 <td width="33%" align="center">
 
-<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
 
 ### ⚡ Growing
 
-Focused on consistency, scalability, and problem solving.
+Focused on consistency and real world development.
 
 </td>
 
@@ -76,7 +76,7 @@ Focused on consistency, scalability, and problem solving.
 
 ---
 
-## ⚡ Developer Profile
+# ⚡ Developer Profile
 
 <table>
 <tr>
@@ -90,8 +90,9 @@ Focused on consistency, scalability, and problem solving.
 - Spring Boot APIs  
 - DSA & Problem Solving  
 - AI Integrated Development  
-- AI Assisted Development  
 - Modern UI Systems  
+- Scalable Applications  
+- REST API Development  
 
 </td>
 
@@ -101,11 +102,40 @@ Focused on consistency, scalability, and problem solving.
 
 - Continuous Learning  
 - Scalable Thinking  
-- Modern Development  
 - Adaptability  
-- Real World Problem Solving  
-- Clean Architecture  
+- Problem Solving  
 - Innovation Driven Development  
+- Clean Architecture  
+- Performance Optimization  
+- Modern Engineering Practices  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌌 Engineering Philosophy
+
+<table>
+<tr>
+
+<td width="50%" valign="center">
+
+> Technology evolves continuously, and engineers grow by adapting, learning, and building impactful solutions.
+
+<br>
+
+### 🔌 Logic • Analysis • Systems  
+### 💻 Development • Innovation • Design  
+### 🚀 Learn • Build • Evolve  
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 </td>
 
@@ -122,44 +152,7 @@ Focused on consistency, scalability, and problem solving.
 
 ---
 
-## 🌌 Engineering Philosophy
-
-<table>
-<tr>
-
-<td width="50%" valign="center">
-
-> Engineering is not limited to one domain.  
-> Technology evolves continuously, and engineers grow by adapting, learning, and building impactful solutions.
-
-<br>
-
-### 🔌 Logic • Analysis • Systems  
-### 💻 Development • Innovation • Design  
-### 🚀 Learn • Build • Evolve  
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
-</div>
-
----
-
-## ⚔️ Tech Stack
+# ⚔️ Tech Stack
 
 <div align="center">
 
@@ -169,27 +162,15 @@ Focused on consistency, scalability, and problem solving.
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%" align="center">
+<div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootGokul-404&theme=github_dark"/>
 
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RootGokul-404&theme=github_dark"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -198,19 +179,16 @@ Focused on consistency, scalability, and problem solving.
 
 ### 🌐 Portfolio Website
 
-Modern responsive portfolio with:
-- Smooth UI
-- Responsive Design
-- Developer Branding
-- Interactive Components
-- Dark Premium Theme
-
-#### Stack
-HTML • CSS • Bootstrap • JavaScript
+- Responsive Design  
+- Interactive Components  
+- Smooth UI  
+- Modern Layout  
+- Premium Dark Theme  
+- Developer Branding  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
 
 </td>
 
@@ -218,19 +196,16 @@ HTML • CSS • Bootstrap • JavaScript
 
 ### 🚀 Spring Boot REST API
 
-Backend API architecture featuring:
-- CRUD Operations
-- REST APIs
-- Authentication
-- Database Integration
-- Validation & Security
-
-#### Stack
-Spring Boot • Java • MySQL
+- CRUD Operations  
+- REST APIs  
+- Authentication  
+- Database Integration  
+- Validation  
+- Security Handling  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 </td>
 
@@ -242,15 +217,16 @@ Spring Boot • Java • MySQL
 
 ### 🔐 Authentication System
 
-Secure login and registration system with:
-- Validation
-- Session Handling
-- Backend Security
-- Database Connectivity
+- Validation  
+- Session Handling  
+- Backend Security  
+- Database Connectivity  
+- Login System  
+- Registration Module  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
+<img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
 
 </td>
 
@@ -258,17 +234,16 @@ Secure login and registration system with:
 
 ### 📚 DSA Repository
 
-Problem solving repository focused on:
-- Arrays
-- Linked Lists
-- Stack & Queue
-- Recursion
-- Sorting Algorithms
-- Logical Thinking
+- Arrays  
+- Linked Lists  
+- Recursion  
+- Sorting Algorithms  
+- Stack & Queue  
+- Logical Thinking  
 
 <br>
 
-<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 </td>
 
@@ -277,7 +252,7 @@ Problem solving repository focused on:
 
 ---
 
-## 🌌 Engineering Journey
+# 🌌 Engineering Journey
 
 <div align="center">
 
@@ -287,20 +262,20 @@ Problem solving repository focused on:
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -310,87 +285,73 @@ Problem solving repository focused on:
 
 <td width="50%" align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 <td width="50%" align="center">
-
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/RootGokul-404" target="_blank">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
-
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🛠 Development Workflow
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 📌 Plan
-
-<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
-
-Understanding requirements and designing architecture.
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻 Build
 
 <img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
 
-Developing scalable frontend and backend systems.
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠 Development Workflow
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+### 📌 Plan
+
+Requirement analysis and architecture design.
 
 </td>
 
 <td width="25%" align="center">
 
-### 🧪 Test
+<img width="100%" src="https://media.tenor.com/L8K62E8hhfMAAAAC/computer-cat.gif"/>
 
-<img width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+### 💻 Build
 
-Improving quality, debugging, and optimization.
+Developing scalable applications.
 
 </td>
 
 <td width="25%" align="center">
-
-### 🚀 Deploy
 
 <img width="100%" src="https://media.tenor.com/oqyUP8olluoAAAAC/kitten-cat.gif"/>
 
-Deploying applications and improving workflows.
+### 🧪 Test
+
+Debugging and optimization.
+
+</td>
+
+<td width="25%" align="center">
+
+<img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
+### 🚀 Deploy
+
+Deployment and workflow improvement.
 
 </td>
 
@@ -399,7 +360,7 @@ Deploying applications and improving workflows.
 
 ---
 
-## 🎯 Learning Roadmap
+# 🎯 Learning Roadmap
 
 <div align="center">
 
@@ -413,7 +374,7 @@ Deploying applications and improving workflows.
 
 ---
 
-## ⚙️ System Status
+# ⚙️ System Status
 
 <div align="center">
 
@@ -429,7 +390,7 @@ Deploying applications and improving workflows.
 
 ---
 
-## 🧩 Developer Traits
+# 🧩 Developer Traits
 
 <table>
 <tr>
@@ -443,6 +404,7 @@ Deploying applications and improving workflows.
 - Frontend UI  
 - Database Integration  
 - Responsive Design  
+- REST APIs  
 
 </td>
 
@@ -455,6 +417,7 @@ Deploying applications and improving workflows.
 - Team Collaboration  
 - Continuous Learning  
 - Analytical Thinking  
+- Creativity  
 
 </td>
 
@@ -463,7 +426,7 @@ Deploying applications and improving workflows.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
