@@ -319,9 +319,11 @@ Modern Development & Automation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -329,7 +331,8 @@ Modern Development & Automation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -339,7 +342,8 @@ Modern Development & Automation
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
