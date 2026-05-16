@@ -22,51 +22,75 @@
 
 ---
 
-# ⚡ ROOTGOKUL-404
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER;JAVA+FULL+STACK+ENGINEER;SPRING+BOOT+DEVELOPER;FROM+EEE+TO+IT;BUILDING+MODERN+DIGITAL+SYSTEMS" />
+
+</div>
+
+<br>
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="55%" valign="top">
+
+# ⚡ ROOTGOKUL-404
 
 ```yaml
-name: Gokulakannan
+class Developer {
 
-identity:
-  - Software Developer
-  - Java Full Stack Developer
-  - AI Driven Learner
-  - EEE → IT Transition
+    String name = "Gokulakannan";
 
-origin_story: |
-  Started in Electrical & Electronics Engineering,
-  discovered the power of software development.
-  Transitioned from circuits to scalable systems
-  while keeping analytical thinking and
-  structured problem solving.
+    String role = "Software Developer";
 
-currently_engineering:
-  - Spring Boot Applications
-  - Backend Development
-  - Data Structures & Algorithms
-  - AI Assisted Development
+    String specialization =
+            "Java Full Stack Development";
 
-philosophy:
-  - Learn Fast. Build Smart. Adapt Continuously.
-  - Logic from EEE + Creativity from IT.
-  - Every project is a learning opportunity.
+    String background =
+            "Electrical & Electronics Engineering";
 
-focus:
-  - Scalable Applications
-  - Backend Engineering
-  - Modern Technologies
+    String currentFocus =
+            "Building scalable backend systems";
+
+    String[] technologies = {
+
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "MySQL",
+            "Git",
+            "GitHub",
+            "DSA"
+    };
+
+    String philosophy =
+            "Learn • Build • Evolve";
+
+}
 ```
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FULL_STACK-00B4D8?style=for-the-badge"/>
 
 </td>
 
