@@ -22,27 +22,33 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=SOFTWARE+DEVELOPER;JAVA+FULL+STACK+ENGINEER;SPRING+BOOT+DEVELOPER;FROM+EEE+TO+IT;BUILDING+MODERN+DIGITAL+SYSTEMS" />
-
-</div>
-
-<br>
-
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-# ⚡ ROOTGOKUL-404
+```java
+public class RootGokul404 {
 
-```yaml
-class Developer {
+    /*
+    ╔══════════════════════════════════════════════╗
+    ║           ROOTGOKUL-404 SYSTEM              ║
+    ║     EEE → SOFTWARE ENGINEERING JOURNEY      ║
+    ╚══════════════════════════════════════════════╝
+    */
 
-    String name = "Gokulakannan";
+    // ─────────────────────────────────────────────
+    // DEVELOPER IDENTITY
+    // ─────────────────────────────────────────────
 
-    String role = "Software Developer";
+    String name =
+            "Gokulakannan";
+
+    String username =
+            "RootGokul-404";
+
+    String role =
+            "Software Developer";
 
     String specialization =
             "Java Full Stack Development";
@@ -50,8 +56,34 @@ class Developer {
     String background =
             "Electrical & Electronics Engineering";
 
+    String status =
+            "Transforming ideas into scalable systems";
+
+    // ─────────────────────────────────────────────
+    // ENGINEERING JOURNEY
+    // ─────────────────────────────────────────────
+
+    String journey =
+            "Started from circuits and electrical systems, "
+          + "transitioned into software engineering with "
+          + "a passion for backend development, "
+          + "problem solving, and modern technologies.";
+
+    // ─────────────────────────────────────────────
+    // CURRENT OBJECTIVES
+    // ─────────────────────────────────────────────
+
+    String currentMission =
+            "Building scalable applications and "
+          + "modern backend architectures.";
+
     String currentFocus =
-            "Building scalable backend systems";
+            "Spring Boot • REST APIs • DSA • "
+          + "AI Driven Development";
+
+    // ─────────────────────────────────────────────
+    // TECH ARSENAL
+    // ─────────────────────────────────────────────
 
     String[] technologies = {
 
@@ -63,22 +95,87 @@ class Developer {
             "JavaScript",
             "Bootstrap",
             "MySQL",
+            "Firebase",
             "Git",
             "GitHub",
+            "Linux",
+            "VS Code",
             "DSA"
     };
 
+    // ─────────────────────────────────────────────
+    // ENGINEERING ATTRIBUTES
+    // ─────────────────────────────────────────────
+
+    String[] strengths = {
+
+            "Analytical Thinking",
+            "Problem Solving",
+            "Backend Engineering",
+            "Continuous Learning",
+            "Adaptability",
+            "System Level Understanding",
+            "Clean Architecture Mindset"
+    };
+
+    // ─────────────────────────────────────────────
+    // DEVELOPMENT PHILOSOPHY
+    // ─────────────────────────────────────────────
+
     String philosophy =
             "Learn • Build • Evolve";
+
+    String engineeringMindset =
+            "Technology evolves continuously. "
+          + "The best engineers adapt, learn, "
+          + "and build solutions regardless of domain.";
+
+    String developerQuote =
+            "\"If testing is the process of finding bugs, "
+          + "then development is the process "
+          + "of putting them there.\"";
+
+    // ─────────────────────────────────────────────
+    // SYSTEM STATUS
+    // ─────────────────────────────────────────────
+
+    boolean learning = true;
+
+    boolean building = true;
+
+    boolean debugging = true;
+
+    boolean evolving = true;
+
+    // ─────────────────────────────────────────────
+    // FUTURE TARGETS
+    // ─────────────────────────────────────────────
+
+    String[] futureGoals = {
+
+            "Master Backend Engineering",
+            "Build Production Level Applications",
+            "Explore AI Integrated Development",
+            "Learn System Design",
+            "Create Scalable Solutions"
+    };
 
 }
 ```
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-<img width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br><br>
+
+<img width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<br><br>
+
+<img width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <br><br>
 
@@ -87,6 +184,10 @@ class Developer {
 <br><br>
 
 <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 <br><br>
 
@@ -142,60 +243,15 @@ class Developer {
 
 <br><br>
 
+<img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/AI_WORKFLOWS-06d6a0?style=for-the-badge"/>
 
 <br><br>
 
 *"Code is the new electricity."*
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 ENGINEERING DNA
-
-<div align="center">
-
-| ⚡ Core Strength | 🚀 Development Approach | 🎯 Long Term Vision |
-|---|---|---|
-| Problem Solving | Scalable Development | Building Impactful Systems |
-| Analytical Thinking | Clean Architecture | AI Integrated Applications |
-| Continuous Learning | Modern Technologies | Full Stack Engineering |
-| Adaptability | Backend Engineering | System Design Expertise |
-
-</div>
-
----
-
-# ⚡ WHAT MAKES ME DIFFERENT
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔌 EEE BACKGROUND ADVANTAGE
-
-- Strong logical thinking  
-- Systems level understanding  
-- Analytical problem solving  
-- Hardware + software mindset  
-- Structured engineering approach  
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 SOFTWARE DEVELOPMENT FOCUS
-
-- Java Full Stack Development  
-- Spring Boot Backend Engineering  
-- REST API Development  
-- Database Architecture  
-- AI Driven Development  
 
 </td>
 
@@ -302,38 +358,7 @@ Modern Development & Automation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,git,github,vscode,linux"/>
-
-</div>
-
----
-
-# 🏗 DEVELOPMENT PRINCIPLES
-
-<div align="center">
-
-| Principle | Meaning |
-|---|---|
-| Clean Code | Readable and maintainable systems |
-| Scalability | Building systems ready for growth |
-| Consistency | Small improvements every day |
-| Adaptability | Learning modern technologies continuously |
-| Problem Solving | Logic first development approach |
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-| 🚀 Project | ⚡ Tech Stack | 📌 Description |
-|---|---|---|
-| Portfolio Website | HTML • CSS • JS | Modern responsive developer portfolio |
-| Spring Boot REST API | Spring Boot • MySQL | Backend APIs with CRUD operations |
-| Authentication System | Spring Security • JWT | Secure login & authentication |
-| DSA Repository | Java | Problem solving & algorithms |
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,firebase,git,github,vscode,linux"/>
 
 </div>
 
@@ -373,53 +398,12 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-40
 
 ---
 
-# ⚡ DEVELOPMENT STATUS
-
-<div align="center">
-
-| Area | Progress |
-|---|---|
-| Java Development | ██████████ |
-| Spring Boot | ████████░░ |
-| Frontend Development | ███████░░░ |
-| DSA & Problem Solving | ████████░░ |
-| Backend Architecture | ███████░░░ |
-| AI Integrated Development | ██████░░░░ |
-
-</div>
-
----
-
 # 🐛 BUGS & DEVELOPMENT
 
 <div align="center">
 
 > “If testing is the process of finding bugs,  
 > then development is the process of putting them there.”
-
-</div>
-
----
-
-# 💭 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-| 💡 Philosophy | ⚡ Vision |
-|---|---|
-| Technology evolves continuously | Continuous learning creates growth |
-| EEE built analytical thinking | IT builds scalable solutions |
-| Every bug is a lesson | Every commit is progress |
-
-</div>
-
----
-
-# 🎯 CURRENT MISSION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=BUILDING+SPRING+BOOT+APPLICATIONS;SOLVING+DSA+PROBLEMS;LEARNING+AI+DRIVEN+WORKFLOWS;TRANSITIONING+FROM+EEE+TO+IT"/>
 
 </div>
 
