@@ -1,485 +1,160 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/RootGokul-404?v=4" width="180"/>
+<a href="https://github.com/RootGokul-404">
+  <img src="https://avatars.githubusercontent.com/RootGokul-404?v=4" width="180" style="border-radius: 50%; border: 4px solid #00F7FF; box-shadow: 0 0 20px #00F7FF;"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILDING+THE+FUTURE,+ONE+COMMIT+AT+A+TIME&descAlignY=55&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,50:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BUILDING+THE+FUTURE,+ONE+COMMIT+AT+A+TIME&descAlignY=55&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=SOFTWARE+DEVELOPER;JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+DEVELOPER;PROBLEM+SOLVER;AI+DRIVEN+LEARNER;FROM+EEE+TO+IT+%7C+THE+UNCONVENTIONAL+PATH" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+SOFTWARE+DEVELOPER;☕+JAVA+FULL+STACK+ENGINEER;⚙️+SPRING+BOOT+SPECIALIST;⚡+FROM+EEE+TO+IT+TRANSFORMATION;🧠+PROBLEM+SOLVER+%26+CLEAN+CODER" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=00F7FF"/>
-
+<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=SYSTEM+VISITS&color=00F7FF&style=for-the-badge&base=1000"/>
+<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=004e92&logo=github"/>
 <img src="https://img.shields.io/badge/EEE_TO_IT_TRANSFORMATION-ff006e?style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
-
----
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-```java
-public class RootGokul404 {
-
-    /*
-    ╔══════════════════════════════════════════════╗
-    ║           ROOTGOKUL-404 SYSTEM              ║
-    ║     EEE → SOFTWARE ENGINEERING JOURNEY      ║
-    ╚══════════════════════════════════════════════╝
-    */
-
-    // ─────────────────────────────────────────────
-    // DEVELOPER IDENTITY
-    // ─────────────────────────────────────────────
-
-    String name =
-            "Gokulakannan";
-
-    String username =
-            "RootGokul-404";
-
-    String role =
-            "Software Developer";
-
-    String specialization =
-            "Java Full Stack Development";
-
-    String background =
-            "Electrical & Electronics Engineering";
-
-    String status =
-            "Transforming ideas into scalable systems";
-
-    // ─────────────────────────────────────────────
-    // ENGINEERING JOURNEY
-    // ─────────────────────────────────────────────
-
-    String journey =
-            "Started from circuits and electrical systems, "
-          + "transitioned into software engineering with "
-          + "a passion for backend development, "
-          + "problem solving, and modern technologies.";
-
-    // ─────────────────────────────────────────────
-    // CURRENT OBJECTIVES
-    // ─────────────────────────────────────────────
-
-    String currentMission =
-            "Building scalable applications and "
-          + "modern backend architectures.";
-
-    String currentFocus =
-            "Spring Boot • REST APIs • DSA • "
-          + "AI Driven Development";
-
-    // ─────────────────────────────────────────────
-    // TECH ARSENAL
-    // ─────────────────────────────────────────────
-
-    String[] technologies = {
-
-            "Java",
-            "Spring Boot",
-            "REST APIs",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Bootstrap",
-            "MySQL",
-            "Firebase",
-            "Git",
-            "GitHub",
-            "Linux",
-            "VS Code",
-            "DSA"
-    };
-
-    // ─────────────────────────────────────────────
-    // ENGINEERING ATTRIBUTES
-    // ─────────────────────────────────────────────
-
-    String[] strengths = {
-
-            "Analytical Thinking",
-            "Problem Solving",
-            "Backend Engineering",
-            "Continuous Learning",
-            "Adaptability",
-            "System Level Understanding",
-            "Clean Architecture Mindset"
-    };
-
-    // ─────────────────────────────────────────────
-    // DEVELOPMENT PHILOSOPHY
-    // ─────────────────────────────────────────────
-
-    String philosophy =
-            "Learn • Build • Evolve";
-
-    String engineeringMindset =
-            "Technology evolves continuously. "
-          + "The best engineers adapt, learn, "
-          + "and build solutions regardless of domain.";
-
-    String developerQuote =
-            "\"If testing is the process of finding bugs, "
-          + "then development is the process "
-          + "of putting them there.\"";
-
-    // ─────────────────────────────────────────────
-    // SYSTEM STATUS
-    // ─────────────────────────────────────────────
-
-    boolean learning = true;
-
-    boolean building = true;
-
-    boolean debugging = true;
-
-    boolean evolving = true;
-
-    // ─────────────────────────────────────────────
-    // FUTURE TARGETS
-    // ─────────────────────────────────────────────
-
-    String[] futureGoals = {
-
-            "Master Backend Engineering",
-            "Build Production Level Applications",
-            "Explore AI Integrated Development",
-            "Learn System Design",
-            "Create Scalable Solutions"
-    };
-
-}
-```
-
-</td>
-
-<td width="40%" align="center">
-
-<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br><br>
-
-<img width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-<br><br>
-
-<img width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-<br><br>
-
-<img width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=350&lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+ENGINEER;BACKEND+ARCHITECTURE;AI+DRIVEN+LEARNING"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FULL_STACK-00B4D8?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔀 THE EEE → IT TRANSFORMATION
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### ⚡ EEE FOUNDATION
-
-<img src="https://img.shields.io/badge/ANALYTICAL_THINKING-111827?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEMS_DESIGN-1F2937?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LOGIC_BUILDING-374151?style=for-the-badge"/>
-
-<br><br>
-
-*"Circuits taught precision. Debugging taught patience."*
-
-</td>
-
-<td width="33%" align="center">
-
-<img width="180" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 SOFTWARE DEVELOPMENT
-
-<img src="https://img.shields.io/badge/FULL_STACK-00b4d8?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI_WORKFLOWS-06d6a0?style=for-the-badge"/>
-
-<br><br>
-
-*"Code is the new electricity."*
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 ENGINEERING JOURNEY
 
 <div align="center">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" height="35" /> SYSTEM IDENTITY & MISSION
+
+> **"Transforming ideas into scalable systems."**
+
+| 🎯 Attribute | 💡 Details |
+| :--- | :--- |
+| **Role** | Java Full Stack Developer |
+| **Background** | Electrical & Electronics Engineering (EEE) |
+| **Current Mission** | Building scalable applications and modern backend architectures |
+| **Focus Stack** | Spring Boot • REST APIs • DSA • AI-Driven Development |
+| **Philosophy** | Learn • Build • Evolve |
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Started+from+circuits+and+electrical+systems...;Transitioned+into+software+engineering...;Passion+for+backend+and+problem+solving..."/>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> THE EEE → IT PIPELINE
+
 <table>
 <tr>
-
-<td align="center">
-
-### ⚡ EEE
-
-Electrical & Electronics Engineering
-
-</td>
-
-<td align="center">
-
-➡️
-
-</td>
-
-<td align="center">
-
-### 🧠 Logic Building
-
-Analytical Thinking & Problem Solving
-
-</td>
-
-<td align="center">
-
-➡️
-
-</td>
-
-<td align="center">
-
-### 💻 Programming
-
-Java & Development Fundamentals
-
-</td>
-
+<td align="center"><h3>🔌 HARDWARE</h3></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" width="40"/></td>
+<td align="center"><h3>🧠 LOGIC</h3></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" width="40"/></td>
+<td align="center"><h3>⚙️ BACKEND</h3></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" width="40"/></td>
+<td align="center"><h3>🌐 FULL STACK</h3></td>
+</tr>
+<tr>
+<td align="center"><i>Electrical Circuits</i></td>
+<td></td>
+<td align="center"><i>Problem Solving & DSA</i></td>
+<td></td>
+<td align="center"><i>Java & Spring Boot</i></td>
+<td></td>
+<td align="center"><i>Modern Web Apps</i></td>
 </tr>
 </table>
 
 <br>
 
-<table>
-<tr>
-
-<td align="center">
-
-### 🚀 Backend Engineering
-
-Spring Boot & REST APIs
-
-</td>
-
-<td align="center">
-
-➡️
-
-</td>
-
-<td align="center">
-
-### 🌐 Full Stack Development
-
-Modern Web Applications
-
-</td>
-
-<td align="center">
-
-➡️
-
-</td>
-
-<td align="center">
-
-### 🤖 AI Driven Workflows
-
-Modern Development & Automation
-
-</td>
-
-</tr>
-</table>
+> *"Circuits taught precision. Code taught scalability. Code is the new electricity."*
 
 </div>
 
----
-
-# ⚔️ TECH STACK
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,firebase,git,github,vscode,linux"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Swords" width="35" height="35" /> TECH ARSENAL
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,postman,html,css,js,bootstrap,firebase,git,github,vscode,linux&perline=7" />
+</a>
 
 </div>
 
----
-
-# 📊 GITHUB ANALYTICS
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" height="35" /> LIVE GITHUB ANALYTICS
 
-<img height="180em"
-src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=00F7FF&icon_color=00F7FF"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF"/>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=00F7FF"/>
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> CONTRIBUTION GRAPH
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
----
-
-# 🔥 CONTRIBUTION GRAPH
-
 <div align="center">
-
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&hide_border=true&area=true"/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
-
-# ⚡ DEVELOPMENT STATUS
-
 <div align="center">
 
-| Area | Progress |
-|---|---|
-| Java Development | ██████████ |
-| Spring Boot | ████████░░ |
-| Frontend Development | ███████░░░ |
-| DSA & Problem Solving | ████████░░ |
-| Backend Architecture | ███████░░░ |
-| AI Integrated Development | ██████░░░░ |
-
-</div>
-
----
-
-# 🐛 BUGS & DEVELOPMENT
-
-<div align="center">
-
-> “If testing is the process of finding bugs,  
-> then development is the process of putting them there.”
-
-</div>
-
----
-
-# 💭 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-| 💡 Philosophy | ⚡ Vision |
-|---|---|
-| Technology evolves continuously | Continuous learning creates growth |
-| EEE built analytical thinking | IT builds scalable solutions |
-| Every bug is a lesson | Every commit is progress |
-
-</div>
-
----
-
-# 🎯 CURRENT MISSION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=BUILDING+SPRING+BOOT+APPLICATIONS;SOLVING+DSA+PROBLEMS;LEARNING+AI+DRIVEN+WORKFLOWS;TRANSITIONING+FROM+EEE+TO+IT"/>
-
-</div>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite" width="35" height="35" /> ESTABLISH CONNECTION
 
 <a href="https://github.com/RootGokul-404">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:gokulakannan7972@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/ivan_gokula_kannan">
-<img src="https://img.shields.io/badge/INSTAGRAM-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/gokulakannan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=“If+testing+is+the+process+of+finding+bugs...”;“Then+development+is+the+process+of+putting+them+there.”"/>
 
-<div align="center">
+<br><br>
 
-## ⚡ CODE • LEARN • BUILD • EVOLVE ⚡
+### ⚡ CODE • LEARN • BUILD • EVOLVE ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000428,50:004e92,100:00F7FF&section=footer"/>
 
 </div>
