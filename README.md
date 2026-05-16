@@ -171,11 +171,19 @@ public class RootGokul404 {
 
 <br><br>
 
-<img width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 <br><br>
 
-<img width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+<br><br>
+
+<img width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=350&lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+ENGINEER;BACKEND+ARCHITECTURE;AI+DRIVEN+LEARNING"/>
 
 <br><br>
 
@@ -398,12 +406,53 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-40
 
 ---
 
+# ⚡ DEVELOPMENT STATUS
+
+<div align="center">
+
+| Area | Progress |
+|---|---|
+| Java Development | ██████████ |
+| Spring Boot | ████████░░ |
+| Frontend Development | ███████░░░ |
+| DSA & Problem Solving | ████████░░ |
+| Backend Architecture | ███████░░░ |
+| AI Integrated Development | ██████░░░░ |
+
+</div>
+
+---
+
 # 🐛 BUGS & DEVELOPMENT
 
 <div align="center">
 
 > “If testing is the process of finding bugs,  
 > then development is the process of putting them there.”
+
+</div>
+
+---
+
+# 💭 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+| 💡 Philosophy | ⚡ Vision |
+|---|---|
+| Technology evolves continuously | Continuous learning creates growth |
+| EEE built analytical thinking | IT builds scalable solutions |
+| Every bug is a lesson | Every commit is progress |
+
+</div>
+
+---
+
+# 🎯 CURRENT MISSION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=BUILDING+SPRING+BOOT+APPLICATIONS;SOLVING+DSA+PROBLEMS;LEARNING+AI+DRIVEN+WORKFLOWS;TRANSITIONING+FROM+EEE+TO+IT"/>
 
 </div>
 
