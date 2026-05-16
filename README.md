@@ -54,139 +54,94 @@
 <td width="60%" valign="top">
 
 ```java
-public class RootGokul404 {
+/*
+╔════════════════════════════════════════════════════════════╗
+║                    ROOTGOKUL-404                          ║
+║         EEE → SOFTWARE ENGINEERING TRANSFORMATION         ║
+╚════════════════════════════════════════════════════════════╝
+*/
 
-    /*
-    ╔══════════════════════════════════════════════╗
-    ║           ROOTGOKUL-404 SYSTEM              ║
-    ║     EEE → SOFTWARE ENGINEERING JOURNEY      ║
-    ╚══════════════════════════════════════════════╝
-    */
+SYSTEM STATUS
+─────────────
+◉ Developer Mode        : ACTIVE
+◉ Backend Engineering   : LOADING
+◉ Spring Boot Journey   : IN PROGRESS
+◉ AI Driven Learning    : ENABLED
+◉ Problem Solving       : RUNNING
+◉ Continuous Learning   : TRUE
 
-    // ─────────────────────────────────────────────
-    // DEVELOPER IDENTITY
-    // ─────────────────────────────────────────────
+ENGINEERING PROFILE
+───────────────────
 
-    String name =
-            "Gokulakannan";
+Name            : Gokulakannan
+Username        : RootGokul-404
+Role            : Software Developer
+Specialization  : Java Full Stack Development
+Background      : Electrical & Electronics Engineering
 
-    String username =
-            "RootGokul-404";
+MISSION
+───────
+Building scalable applications,
+modern backend systems,
+and real-world software solutions.
 
-    String role =
-            "Software Developer";
+CURRENT FOCUS
+─────────────
+▸ Spring Boot
+▸ REST APIs
+▸ Backend Architecture
+▸ Data Structures & Algorithms
+▸ Firebase Integration
+▸ AI Assisted Development
 
-    String specialization =
-            "Java Full Stack Development";
+TECH STACK
+──────────
 
-    String background =
-            "Electrical & Electronics Engineering";
+☕ Java
+⚙️ Spring Boot
+🌐 HTML
+🎨 CSS
+🧠 JavaScript
+🅱️ Bootstrap
+🛢️ MySQL
+🔥 Firebase
+🔧 Git
+🐙 GitHub
+💻 VS Code
+🐧 Linux
 
-    String status =
-            "Transforming ideas into scalable systems";
+ENGINEERING MINDSET
+───────────────────
 
-    // ─────────────────────────────────────────────
-    // ENGINEERING JOURNEY
-    // ─────────────────────────────────────────────
+"Technology evolves continuously.
+The best engineers adapt,
+learn fast,
+and build impactful solutions."
 
-    String journey =
-            "Started from circuits and electrical systems, "
-          + "transitioned into software engineering with "
-          + "a passion for backend development, "
-          + "problem solving, and modern technologies.";
+DEVELOPER QUOTE
+────────────────
 
-    // ─────────────────────────────────────────────
-    // CURRENT OBJECTIVES
-    // ─────────────────────────────────────────────
+"If testing is the process of finding bugs,
+then development is the process
+of putting them there."
 
-    String currentMission =
-            "Building scalable applications and "
-          + "modern backend architectures.";
+FUTURE TARGETS
+──────────────
 
-    String currentFocus =
-            "Spring Boot • REST APIs • DSA • "
-          + "AI Driven Development";
+◎ Master Backend Engineering
+◎ Build Production-Level Systems
+◎ Explore AI Integrated Development
+◎ Improve System Design Skills
+◎ Create Scalable Architectures
 
-    // ─────────────────────────────────────────────
-    // TECH ARSENAL
-    // ─────────────────────────────────────────────
+SYSTEM MESSAGE
+──────────────
 
-    String[] technologies = {
+EEE gave the logic.
+Software engineering gave the platform.
+Now building the future through code.
 
-            "Java",
-            "Spring Boot",
-            "REST APIs",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Bootstrap",
-            "MySQL",
-            "Firebase",
-            "Git",
-            "GitHub",
-            "Linux",
-            "VS Code",
-            "DSA"
-    };
-
-    // ─────────────────────────────────────────────
-    // ENGINEERING ATTRIBUTES
-    // ─────────────────────────────────────────────
-
-    String[] strengths = {
-
-            "Analytical Thinking",
-            "Problem Solving",
-            "Backend Engineering",
-            "Continuous Learning",
-            "Adaptability",
-            "System Level Understanding",
-            "Clean Architecture Mindset"
-    };
-
-    // ─────────────────────────────────────────────
-    // DEVELOPMENT PHILOSOPHY
-    // ─────────────────────────────────────────────
-
-    String philosophy =
-            "Learn • Build • Evolve";
-
-    String engineeringMindset =
-            "Technology evolves continuously. "
-          + "The best engineers adapt, learn, "
-          + "and build solutions regardless of domain.";
-
-    String developerQuote =
-            "\"If testing is the process of finding bugs, "
-          + "then development is the process "
-          + "of putting them there.\"";
-
-    // ─────────────────────────────────────────────
-    // SYSTEM STATUS
-    // ─────────────────────────────────────────────
-
-    boolean learning = true;
-
-    boolean building = true;
-
-    boolean debugging = true;
-
-    boolean evolving = true;
-
-    // ─────────────────────────────────────────────
-    // FUTURE TARGETS
-    // ─────────────────────────────────────────────
-
-    String[] futureGoals = {
-
-            "Master Backend Engineering",
-            "Build Production Level Applications",
-            "Explore AI Integrated Development",
-            "Learn System Design",
-            "Create Scalable Solutions"
-    };
-
-}
+STATUS : EVOLVING...
 ```
 
 </td>
