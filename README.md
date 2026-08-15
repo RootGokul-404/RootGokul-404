@@ -1,90 +1,249 @@
 <div align="center">
 
 <a href="https://github.com/RootGokul-404">
-  <img src="https://avatars.githubusercontent.com/RootGokul-404?v=4" width="150" style="border-radius: 50%; border: 3px solid #00F7FF;"/>
+  <img src="https://avatars.githubusercontent.com/RootGokul-404?v=4" width="180" style="border-radius: 50%; border: 4px solid #00F7FF; box-shadow: 0 0 20px #00F7FF;"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Hey,%20I'm%20Gokulakannan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20swapped%20circuits%20for%20code%20—%20now%20I%20build%20backends&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:000428,50:004e92,100:00F7FF&amp;text=ROOTGOKUL-404&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=BUILDING+THE+FUTURE,+ONE+COMMIT+AT+A+TIME&amp;descAlignY=55&amp;descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+Developer;Ex-Electrical+Engineer%2C+Now+Full+Stack;Turning+coffee+into+REST+APIs;Always+shipping%2C+always+learning" />
-
-</div>
-
-<br>
-
-## ⚡ The Short Version
-
-I started out in **Electrical & Electronics Engineering** — chasing signals, circuits, and current. Somewhere along the way I got hooked on a different kind of current: the flow of data through a well-designed backend. So I made the jump.
-
-Today I build with **Java + Spring Boot**, design REST APIs, and spend an unreasonable amount of time thinking about clean architecture. The engineering mindset never left — it just changed languages.
-
-```text
-if (background == "EEE" && passion == "Software") {
-    return "Full Stack Developer, one migration at a time";
-}
-```
-
-<br>
-
-## 🧭 How I Got Here
-
-```
-🔌 Electrical Circuits  →  🧠 Problem Solving & DSA  →  ⚙️ Java & Spring Boot  →  🌐 Full Stack Apps
-```
-
-> Circuits taught me precision. Code taught me scale. Turns out debugging a stack trace isn't so different from tracing a faulty circuit — you just follow the signal until something breaks.
-
-<br>
-
-## 🛠️ What I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,firebase,git,github,vscode,linux&perline=6"/>
-
-</div>
-
-| Layer | Tools |
-|---|---|
-| **Backend** | Java, Spring Boot, REST APIs |
-| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
-| **Data** | MySQL, Firebase |
-| **Workflow** | Git, GitHub, VS Code, Linux |
-| **Currently sharpening** | Data Structures & Algorithms, System Design, AI-assisted development |
-
-<br>
-
-## 🎯 What I'm Chasing Next
-
-- 🏗️ Ship a production-grade backend project I'm genuinely proud of
-- 📐 Get sharper at system design — not just "make it work," but "make it scale"
-- 🤖 Explore where AI tooling actually earns a place in the dev workflow (not just hype)
-- 🧩 Keep leveling up DSA until it's second nature, not a chore
-
-<br>
-
-## 📊 The Numbers
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=00F7FF&icon_color=00F7FF"/>
-<img height="165em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=🚀+SOFTWARE+DEVELOPER;☕+JAVA+FULL+STACK+ENGINEER;⚙️+SPRING+BOOT+SPECIALIST;⚡+FROM+EEE+TO+IT+TRANSFORMATION;🧠+PROBLEM+SOLVER+%26+CLEAN+CODER" />
 
 <br><br>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=00F7FF"/>
+<img src="https://komarev.com/ghpvc/?username=RootGokul-404&amp;label=SYSTEM+VISITS&amp;color=00F7FF&amp;style=for-the-badge&amp;base=1000"/>
+<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&amp;color=004e92&amp;logo=github"/>
+<img src="https://img.shields.io/badge/EEE_TO_IT_TRANSFORMATION-ff006e?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
+<div align="center">
+
+## 👾 SYSTEM IDENTITY & MISSION
+
+> **"Transforming ideas into scalable systems."**
+
+| 🎯 Attribute | 💡 Details |
+| :--- | :--- |
+| **Role** | Java Full Stack Developer |
+| **Background** | Electrical & Electronics Engineering (EEE) |
+| **Current Mission** | Building scalable applications and modern backend architectures |
+| **Focus Stack** | Spring Boot • REST APIs • DSA • AI-Driven Development |
+| **Philosophy** | Learn • Build • Evolve |
+
 <br>
 
-## 🐍 Contribution Snake
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=18&amp;duration=2500&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Started+from+circuits+and+electrical+systems...;Transitioned+into+software+engineering...;Passion+for+backend+and+problem+solving...;Building+modern+and+scalable+systems..." />
+
+</div>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+<pre>
+╔════════════════════════════════════════════════════════════╗
+║                    ROOTGOKUL-404                           ║
+║         EEE → SOFTWARE ENGINEERING TRANSFORMATION           ║
+╚════════════════════════════════════════════════════════════╝
+
+SYSTEM STATUS
+─────────────
+◉ Developer Mode        : ACTIVE
+◉ Backend Engineering   : LOADING
+◉ Spring Boot Journey   : IN PROGRESS
+◉ AI Driven Learning    : ENABLED
+◉ Problem Solving       : RUNNING
+◉ Continuous Learning   : TRUE
+
+ENGINEERING PROFILE
+───────────────────
+
+Name            : Gokulakannan
+Username        : RootGokul-404
+Role            : Software Developer
+Specialization  : Java Full Stack Development
+Background      : Electrical & Electronics Engineering
+
+MISSION
+───────
+Building scalable applications,
+modern backend systems,
+and real-world software solutions.
+
+CURRENT FOCUS
+─────────────
+▸ Spring Boot
+▸ REST APIs
+▸ Backend Architecture
+▸ Data Structures & Algorithms
+▸ Firebase Integration
+▸ AI Assisted Development
+
+TECH STACK
+──────────
+
+☕ Java
+⚙️ Spring Boot
+🌐 HTML
+🎨 CSS
+🧠 JavaScript
+🅱️ Bootstrap
+🛢️ MySQL
+🔥 Firebase
+🔧 Git
+🐙 GitHub
+💻 VS Code
+🐧 Linux
+
+ENGINEERING MINDSET
+───────────────────
+
+"Technology evolves continuously.
+The best engineers adapt,
+learn fast,
+and build impactful solutions."
+
+DEVELOPER QUOTE
+────────────────
+
+"If testing is the process of finding bugs,
+then development is the process
+of putting them there."
+
+FUTURE TARGETS
+──────────────
+
+◎ Master Backend Engineering
+◎ Build Production-Level Systems
+◎ Explore AI Integrated Development
+◎ Improve System Design Skills
+◎ Create Scalable Architectures
+
+SYSTEM MESSAGE
+──────────────
+
+EEE gave the logic.
+Software engineering gave the platform.
+Now building the future through code.
+
+STATUS : EVOLVING...
+</pre>
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br><br>
+
+<img width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<br><br>
+
+<img width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+<br><br>
+
+<img width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=18&amp;duration=2500&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=350&amp;lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+ENGINEER;BACKEND+ARCHITECTURE;AI+DRIVEN+LEARNING"/>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+## ⚡ THE EEE → IT PIPELINE
+
+<table>
+<tr>
+<td align="center"><h3>🔌 HARDWARE</h3></td>
+<td align="center">➡️</td>
+<td align="center"><h3>🧠 LOGIC</h3></td>
+<td align="center">➡️</td>
+<td align="center"><h3>⚙️ BACKEND</h3></td>
+<td align="center">➡️</td>
+<td align="center"><h3>🌐 FULL STACK</h3></td>
+</tr>
+
+<tr>
+<td align="center"><i>Electrical Circuits</i></td>
+<td></td>
+<td align="center"><i>Problem Solving &amp; DSA</i></td>
+<td></td>
+<td align="center"><i>Java &amp; Spring Boot</i></td>
+<td></td>
+<td align="center"><i>Modern Web Apps</i></td>
+</tr>
+</table>
+
+<br>
+
+> *"Circuits taught precision. Code taught scalability. Code is the new electricity."*
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+## ⚔️ TECH ARSENAL
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,firebase,git,github,vscode,linux&amp;perline=6"/>
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+## 📊 LIVE GITHUB ANALYTICS
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400&amp;title_color=00F7FF&amp;icon_color=00F7FF"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&amp;theme=tokyonight&amp;hide_border=true&amp;fire=00F7FF&amp;ring=00F7FF"/>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400&amp;title_color=00F7FF"/>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+## 🐍 CONTRIBUTION GRAPH
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -94,34 +253,34 @@ if (background == "EEE" && passion == "Software") {
 
 </div>
 
-<br>
-
-## 💬 A Line I Live By
-
-> "If testing is the process of finding bugs, then development is the process of putting them there."
-
-<br>
-
-## 📫 Let's Connect
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
 
-<a href="mailto:gokulakannan7972@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/ivan_gokula_kannan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## 🌐 ESTABLISH CONNECTION
+
 <a href="https://github.com/RootGokul-404">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
+
+<a href="mailto:gokulakannan7972@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ivan_gokula_kannan">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=Profile+Views&color=00F7FF&style=for-the-badge&base=1000"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=If+testing+is+the+process+of+finding+bugs...;Then+development+is+the+process+of+putting+them+there." />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
+## ⚡ CODE • LEARN • BUILD • EVOLVE ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:000428,50:004e92,100:00F7FF&amp;section=footer"/>
 
 </div>
