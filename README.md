@@ -227,27 +227,15 @@ STATUS : EVOLVING...
 
 ## 📊 LIVE GITHUB ANALYTICS
 
-<img src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF&background=000428" height="175em"/>
+<a href="https://github.com/RootGokul-404">
+  <img src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF&background=000428" height="175em"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootGokul-404&theme=tokyo-night&bg_color=000428&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true" width="90%"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-
-## 🐍 CONTRIBUTION GRAPH
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootGokul-404/RootGokul-404/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootGokul-404/RootGokul-404/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RootGokul-404/RootGokul-404/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<a href="https://github.com/RootGokul-404">
+  <img src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&no-bg=true&margin_w=15" width="90%"/>
+</a>
 
 </div>
 
