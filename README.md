@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <a href="https://github.com/RootGokul-404">
@@ -6,16 +7,16 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:000428,50:004e92,100:00F7FF&amp;text=ROOTGOKUL-404&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=BUILDING+THE+FUTURE,+ONE+COMMIT+AT+A+TIME&amp;descAlignY=55&amp;descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,50:004e92,100:00F7FF&text=ROOTGOKUL-404&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BUILDING+THE+FUTURE,+ONE+COMMIT+AT+A+TIME&descAlignY=55&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=🚀+SOFTWARE+DEVELOPER;☕+JAVA+FULL+STACK+ENGINEER;⚙️+SPRING+BOOT+SPECIALIST;⚡+FROM+EEE+TO+IT+TRANSFORMATION;🧠+PROBLEM+SOLVER+%26+CLEAN+CODER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+SOFTWARE+DEVELOPER;☕+JAVA+FULL+STACK+ENGINEER;⚙️+SPRING+BOOT+SPECIALIST;⚡+FROM+EEE+TO+IT+TRANSFORMATION;🧠+PROBLEM+SOLVER+%26+CLEAN+CODER" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RootGokul-404&amp;label=SYSTEM+VISITS&amp;color=00F7FF&amp;style=for-the-badge&amp;base=1000"/>
-<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&amp;color=004e92&amp;logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=RootGokul-404&label=SYSTEM+VISITS&color=00F7FF&style=for-the-badge&base=1000"/>
+<img src="https://img.shields.io/github/followers/RootGokul-404?style=for-the-badge&color=004e92&logo=github"/>
 <img src="https://img.shields.io/badge/EEE_TO_IT_TRANSFORMATION-ff006e?style=for-the-badge"/>
 
 <br><br>
@@ -40,7 +41,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=18&amp;duration=2500&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Started+from+circuits+and+electrical+systems...;Transitioned+into+software+engineering...;Passion+for+backend+and+problem+solving...;Building+modern+and+scalable+systems..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Started+from+circuits+and+electrical+systems...;Transitioned+into+software+engineering...;Passion+for+backend+and+problem+solving...;Building+modern+and+scalable+systems..." />
 
 </div>
 
@@ -56,7 +57,7 @@
 <pre>
 ╔════════════════════════════════════════════════════════════╗
 ║                    ROOTGOKUL-404                           ║
-║         EEE → SOFTWARE ENGINEERING TRANSFORMATION           ║
+║          EEE → SOFTWARE ENGINEERING TRANSFORMATION         ║
 ╚════════════════════════════════════════════════════════════╝
 
 SYSTEM STATUS
@@ -162,7 +163,7 @@ STATUS : EVOLVING...
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=18&amp;duration=2500&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=350&amp;lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+ENGINEER;BACKEND+ARCHITECTURE;AI+DRIVEN+LEARNING"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=350&lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+ENGINEER;BACKEND+ARCHITECTURE;AI+DRIVEN+LEARNING"/>
 
 </td>
 
@@ -214,7 +215,7 @@ STATUS : EVOLVING...
 ## ⚔️ TECH ARSENAL
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,firebase,git,github,vscode,linux&amp;perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,firebase,git,github,vscode,linux&perline=6"/>
 </a>
 
 </div>
@@ -227,13 +228,13 @@ STATUS : EVOLVING...
 
 ## 📊 LIVE GITHUB ANALYTICS
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400&amp;title_color=00F7FF&amp;icon_color=00F7FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RootGokul-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=00F7FF&icon_color=00F7FF"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&amp;theme=tokyonight&amp;hide_border=true&amp;fire=00F7FF&amp;ring=00F7FF"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF"/>
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400&amp;title_color=00F7FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootGokul-404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=00F7FF"/>
 
 </div>
 
@@ -262,25 +263,27 @@ STATUS : EVOLVING...
 ## 🌐 ESTABLISH CONNECTION
 
 <a href="https://github.com/RootGokul-404">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:gokulakannan7972@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/ivan_gokula_kannan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=If+testing+is+the+process+of+finding+bugs...;Then+development+is+the+process+of+putting+them+there." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=If+testing+is+the+process+of+finding+bugs...;Then+development+is+the+process+of+putting+them+there." />
 
 <br><br>
 
 ## ⚡ CODE • LEARN • BUILD • EVOLVE ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:000428,50:004e92,100:00F7FF&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000428,50:004e92,100:00F7FF&section=footer"/>
 
 </div>
+
+```
