@@ -227,15 +227,7 @@ STATUS : EVOLVING...
 
 ## 📊 LIVE GITHUB ANALYTICS
 
-<a href="https://github.com/RootGokul-404">
-  <img src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF&background=000428" height="175em"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/RootGokul-404">
-  <img src="https://github-profile-trophy.vercel.app/?username=RootGokul-404&theme=tokyonight&no-frame=true&no-bg=true&margin_w=15" width="90%"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=RootGokul-404&theme=tokyonight&hide_border=true&fire=00F7FF&ring=00F7FF&background=000428" height="175em"/>
 
 </div>
 
